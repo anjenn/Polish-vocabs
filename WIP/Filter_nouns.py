@@ -4,6 +4,7 @@ import csv
 def init_process(csv_file):
     occurrences = set() # set requires declaration
     entries_set = set()
+    counter = 0
 
     with open(csv_file, 'r', encoding='utf-8') as file:
         reader = csv.reader(file)
@@ -19,51 +20,51 @@ def init_process(csv_file):
             # entry.split('-')[1].strip().split('(')[0].strip() => 'administration, optional'
             classifier1 = entry.split(' ')[1]
 
-            to_be_checked = f"{word1} {classifier1}"
+            to_be_checked = f"{word1} {classifier}"
 
             if to_be_checked in entries_set:
                 for triplet in occurrences:
+                    counter += 1
                     if (triplet[0] !== to_be_checked):
-                        occurrences.add((to_be_checked, classifier1, (word2,)))
+                        occurrences.add((to_be_checked, classifier, (word2,)))
                         print(f"Base word '{triplet[0]}' has multiple occurrences.")
-                    else:
-                        # add occurences
             else:
                 entries_set.add(to_be_checked)
-
+        print(f"Counter: {counter}")
     return occurrences, entries_set
 
-
 # function to merge entries with the same base word
-def merge_overlaps():
+def merge_overlaps(occurences, entries_set):
     merged_entries = [] # list requires declaration
-    occurrences, entries_set = init_process(csv_file)
-    counter = 0
 
     for triplet in occurrences:
         base = triplet[0]
         word2 = triplet[2]
         for triplet in occurrences:
             if (triplet[0] == base and triplet[2] not in (word2,)):
-                counter += 1
                 updated_triplet = (triplet[0], triplet[1], triplet[2] + (word2,))
                 merged_entry = f"{triplet[0]} - {triplet[2]} {triplet[1]}"
                 merged_entries.append(merged_entry)
                 break
-
     return merged_entries
 
-
-    counter = 0
-    for triplet in occurrences:
-        counter += 1
-        print(f"Base word '{triplet[0]}' has multiple occurrences.")
-
-    print(f"Counter: {counter}")
-
-
 # function to replace the unecessary entries in the original file
-def merge_overlaps():
+def replace_entries(entries_set, merged_entries):
+    for entry in entries_set:
+        to_be_checked = entry.split('-')[0].strip()
+        word2 = entry.split('-')[1].strip().split('(')[0].strip() # entry.split('-')[1].strip() => 'administration, optional (f)'
+
+        for merged_entry in merged_entries:
+            if (to_be_checked == merged_entry.split('-')[0].strip() and word2 not in merged_entry.split('-')[1].strip()):
+                print(f"Replacing {entry} with {merged_entry}") # DEBUGGING - 2nd condition to be fixed
+                entries_set.remove(entry)
+                if (merged_entry not in entries_set):
+                    entries_set.add(merged_entry)
+                break
+
+    return entries_set # OR write to the CSV file, but first, check the results without modifying the original file
+        # replace old_entry with new_entry in csv_file
+
 
 
 csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\WIP\Nouns.csv'
