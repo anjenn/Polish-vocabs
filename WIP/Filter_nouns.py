@@ -1,9 +1,9 @@
 import csv
 
-def merge_duplicates(csv_file):
+# function to store all entries get the same base word
+def init_process(csv_file):
     occurrences = set() # set requires declaration
     entries_set = set()
-    merged_entries = [] # list requires declaration
 
     with open(csv_file, 'r', encoding='utf-8') as file:
         reader = csv.reader(file)
@@ -19,31 +19,40 @@ def merge_duplicates(csv_file):
             # entry.split('-')[1].strip().split('(')[0].strip() => 'administration, optional'
             classifier1 = entry.split(' ')[1]
 
-            overlapping_part = f"{word1} {classifier1}"
+            to_be_checked = f"{word1} {classifier1}"
 
-            # function to merge entries
-            # function to remove old entries
-            # function to add merged entries
-
-            def check_overlapping_part():
-                if overlapping_part in entries_set:
-                    for triplet in occurrences:
-                        if (triplet[0] == overlapping_part and triplet[2] not in (word2,)):
-                            updated_triplet = (triplet[0], triplet[1], triplet[2] + (word2,))
-                            # (word2,) syntax indicates that the element is a tuple
-                            occurrences.remove(triplet)
-                            occurrences.add(updated_triplet)
-                            break
+            if to_be_checked in entries_set:
+                for triplet in occurrences:
+                    if (triplet[0] !== to_be_checked):
+                        occurrences.add((to_be_checked, classifier1, (word2,)))
+                        print(f"Base word '{triplet[0]}' has multiple occurrences.")
                     else:
-                        occurrences.add((overlapping_part, classifier1, (word2,)))
-                else:
-                    entries_set.add(overlapping_part)
+                        # add occurences
+            else:
+                entries_set.add(to_be_checked)
 
-            check_overlapping_part()
+    return occurrences, entries_set
+
+
+# function to merge entries with the same base word
+def merge_overlaps():
+    merged_entries = [] # list requires declaration
+    occurrences, entries_set = init_process(csv_file)
+    counter = 0
 
     for triplet in occurrences:
-        merged_entry = f"{triplet[0]} - {triplet[2]} {triplet[1]}"
-        merged_entries.append(merged_entry)
+        base = triplet[0]
+        word2 = triplet[2]
+        for triplet in occurrences:
+            if (triplet[0] == base and triplet[2] not in (word2,)):
+                counter += 1
+                updated_triplet = (triplet[0], triplet[1], triplet[2] + (word2,))
+                merged_entry = f"{triplet[0]} - {triplet[2]} {triplet[1]}"
+                merged_entries.append(merged_entry)
+                break
+
+    return merged_entries
+
 
     counter = 0
     for triplet in occurrences:
@@ -51,7 +60,10 @@ def merge_duplicates(csv_file):
         print(f"Base word '{triplet[0]}' has multiple occurrences.")
 
     print(f"Counter: {counter}")
-    return occurrences, merged_entries
+
+
+# function to replace the unecessary entries in the original file
+def merge_overlaps():
 
 
 csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\WIP\Nouns.csv'
