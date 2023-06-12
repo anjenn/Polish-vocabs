@@ -2,7 +2,7 @@ import csv
 
 # function to store all entries get the same base word
 def init_process(csv_file):
-    occurrences = set() # set requires declaration
+    occurrences = set() # Change this to a dictionary, using 'base_word' as the key, triplet as the value
     entries_set = set()
     counter = 0
 
@@ -11,14 +11,8 @@ def init_process(csv_file):
         for row in reader:
             entry = row[0] # administracja (f) - administration, optional (f)
             word1 = entry.split('(')[0].strip()
-            # .split('(') is used to split the 'entry' string into a list of substrings based on the occurences of '(')
-            # [0] is used to select the first element of the list
-            # In this case entry.split('(')[0] will return the substring before the first '('
-            # .strip() is used to remove any leading or trailing whitespaces
-
             word2 = entry.split('-')[1].strip().split('(')[0].strip() # entry.split('-')[1].strip() => 'administration, optional (f)'
-            # entry.split('-')[1].strip().split('(')[0].strip() => 'administration, optional'
-            classifier1 = entry.split(' ')[1]
+            classifier = entry.split(' ')[1]
 
             to_be_checked = f"{word1} {classifier}"
 
@@ -34,10 +28,10 @@ def init_process(csv_file):
     return occurrences, entries_set
 
 # function to merge entries with the same base word
-def merge_overlaps(occurences, entries_set):
+def merge_overlaps(occurrences, entries_set):
     merged_entries = [] # list requires declaration
 
-    for triplet in occurrences:
+    for triplet in occurrences: # involves unecessary iterations making the code inefficient. Use dictionary instead
         base = triplet[0]
         word2 = triplet[2]
         for triplet in occurrences:
