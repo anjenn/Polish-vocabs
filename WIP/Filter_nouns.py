@@ -2,9 +2,39 @@ import csv
 
 # function to store all entries get the same base word
 def init_process(csv_file):
-    occurrences = set() # Change this to a dictionary, using 'base_word' as the key, triplet as the value
+    occurrences = {} # dictionary requires declaration
     entries_set = set()
     counter = 0
+
+    # 1. Read the CSV file and store them in a list
+    ## Create a fnction that reads the CSV file and extracts the entries, storing them in a list. Each entry should be represented as a tuple. (Word1, Classifier, Word2)
+    # 2. Merge the entries with the same base word (Word1)
+    ## Create a function that takes the list of entries and performs the merging operation
+    ## Iterate through the list of entries and use the base word as the key to a dictionary (dictionary cannot have duplicate keys)
+    ## For each group of base words (duplicative), combine the word2's, and eventually create merged entries.
+
+sth like:
+def merge_entries(entries):
+    merged_entries = {}
+    for entry in entries:
+        attribute_a, attribute_b, attribute_c = entry
+        if attribute_a in merged_entries:
+            merged_entries[attribute_a] = (merged_entries[attribute_a][0] + attribute_b,
+                                           merged_entries[attribute_a][1] + attribute_c)
+        else:
+            merged_entries[attribute_a] = (attribute_b, attribute_c)
+    return merged_entries
+
+
+    # 3. Counter function to count the number of merged entries. Using dictionary, this can be done by counting the number of keys in the dictionary.
+    # 4. Replace the unecessary entries in the original file
+    ## Iterate over the original file, and check whether each entry is present in the merged entries dictionary
+    ## Writing to the original file => This approach avoids creating a new file and allows you to update the original file in place.
+
+    # If the file is large and memory usage is a concern,
+    # you can write the merged entries to a new file and then replace the original file
+    # with the new file. This approach ensures that
+    # you're not keeping both the original and merged entries in memory at the same time.
 
     with open(csv_file, 'r', encoding='utf-8') as file:
         reader = csv.reader(file)
@@ -17,11 +47,24 @@ def init_process(csv_file):
             to_be_checked = f"{word1} {classifier}"
 
             if to_be_checked in entries_set:
-                for triplet in occurrences:
+                # for triplet in occurrences:
+                    # if (triplet[0] !== to_be_checked):
+                    #     occurrences.add((to_be_checked, classifier, (word2,)))
+                    #     print(f"Base word '{triplet[0]}' has multiple occurrences.")
+                    ## the above code was to add all 'duplicative' entries to the occurrences set
+                    ## but it is not required as the entries_set already contains all the duplicative entries
+                    ## the below code instead checks if the base word has multiple occurrences, and replaces the old entry with the new entry right away
+                for key in occurrences
                     counter += 1
-                    if (triplet[0] !== to_be_checked):
-                        occurrences.add((to_be_checked, classifier, (word2,)))
-                        print(f"Base word '{triplet[0]}' has multiple occurrences.")
+                    if (key == to_be_checked and word2 != occurrences[key][1][0]):
+                        print(f"Base word '{to_be_checked}' has multiple occurrences.")
+                        # but there can be a case wherer the new word2 is either a superset or a subset of the old word2
+                        occurrences[key] = [classifier, (word2,)]
+                    else if (key == to_be_checked and word2 == occurrences[key][1][0]):
+                        print(f"Base word '{to_be_checked}' has duplicative occurrences.")
+                        break
+                        # I need to add an entry to the occurrences set only if the new word2 is not a superset or a subset of the old word2
+                        # But it has to have a collection of multiple duplicative entries at the first place in order to be able to filter them
             else:
                 entries_set.add(to_be_checked)
         print(f"Counter: {counter}")
