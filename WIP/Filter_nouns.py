@@ -67,6 +67,7 @@ def write_to_file(filename):
             final_entry = f'{key} - {init_data[key]} {classifier}\n'
             file.write(final_entry)
 
+            ## final_entry string contains unexpected characters being written to the file => makes csv file generation harder
             # final_entry = key + " - " + init_data[key] + " " + classifier
             # formatted_key = key.replace(',', '').replace('"', "'")
             # formatted_value = init_data[key].replace(',', '').replace('"', "'")
@@ -74,8 +75,7 @@ def write_to_file(filename):
             # final_entry = f'{formatted_key} - {formatted_value} {formatted_classifier}'
             # print(final_entry)
             # final_data.append(final_entry)
-            ## final_entry string contains unexpected characters being written to the file => makes csv file generation harder
 
-write_to_csv('output2.csv')
+write_to_file('output1.txt')
 
 # merge_by_base()
