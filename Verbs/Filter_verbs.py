@@ -10,15 +10,14 @@ import csv
 
 def read_csv(): #1. Read the CSV file and store them in a list
     entries_list = []
-    csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\WIP\Nouns.csv'
-    # csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\WIP\Nouns.csv'
+    csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\Verbs\Verbs.csv'
 
     with open(csv_file, 'r', encoding='utf-8') as file:
         reader = csv.reader(file)
-        for row in reader: # administracja (f) - administration, optional (f)
-            entry = row[0]  # (Word1, Classifier, Word2)
-            word1 = entry.split('-')[0].strip()
-            word2 = entry.split('-')[1].strip().split('(')[0].strip() # adding a comma makes it a tuple
+        for row in reader: # "akceptować - akceptuję (imp.), to accept (imp.)"
+            entry = row[0].replace('"', '')  # akceptować - akceptuję (imp.), to accept (imp.)
+            word1 = entry.split(',')[0].strip()
+            word2 = entry.split(',')[1].strip().split('(')[0].strip()
             entries_list.append((word1, word2))
     
     return entries_list
@@ -37,10 +36,14 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
         if key in seen_entries:
             # Handle the duplicate key
             print(f"Duplicate key found: {key}")
-            merged_entry = final_ent_dict[key] + ", " + word2 
-            final_ent_dict[key] = merged_entry
-            counter += 1
-            print(f"Merged entry: {final_ent_dict[key]}")
+            if (final_ent_dict[key] != word2):
+                merged_entry = final_ent_dict[key] + ", " + word2 
+                final_ent_dict[key] = merged_entry
+                counter += 1
+                print(f"Merged entry: {final_ent_dict[key]}")
+            # else:
+                # print(f"Duplicate entry found: {final_ent_dict[key]}")
+                # print(f"Duplicate entry: {word2}, {final_ent_dict[key]}")
             print(f"-----")
         else:
             seen_entries[key] = word2 # Store the key and rest of elements in the dictionary
@@ -63,19 +66,10 @@ def write_to_file(filename):
         # writer.writerows(final_data)
 
         for key in init_data:
-            classifier = key.split(' ')[1].strip()
+            classifier = '(' + key.split('(')[1].strip()
             final_entry = f'{key} - {init_data[key]} {classifier}\n'
             file.write(final_entry)
 
-            ## final_entry string contains unexpected characters being written to the file => makes csv file generation harder
-            # final_entry = key + " - " + init_data[key] + " " + classifier
-            # formatted_key = key.replace(',', '').replace('"', "'")
-            # formatted_value = init_data[key].replace(',', '').replace('"', "'")
-            # formatted_classifier = classifier.replace(',', '').replace('"', "'")
-            # final_entry = f'{formatted_key} - {formatted_value} {formatted_classifier}'
-            # print(final_entry)
-            # final_data.append(final_entry)
-
-write_to_file('output1.txt')
+write_to_file('Filtered_verbs.txt')
 
 # merge_by_base()
