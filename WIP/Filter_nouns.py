@@ -54,26 +54,28 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
     return final_ent_dict
 
 # function to replace the unecessary entries in the original file
-def write_to_csv(filename):
-    final_ent_dict = merge_by_base() # key: (classifier, word2)
-    data = []
-
-    for key in final_ent_dict:
-        entry = [key] + list(final_ent_dict[key])
-        data.append(entry)  
+def write_to_file(filename):
+    init_data = merge_by_base() # init_data[key]: (classifier, word2)
+    # final_data = []
 
     with open(filename, 'w', newline='', encoding='utf-8') as file:
-        writer = csv.writer(file)
-        writer.writerows(data)
+        # writer = csv.writer(file, dialect='excel')
+        # writer.writerows(final_data)
 
-# Example usage
-# data = [
-#     ['Name', 'Age', 'City'],
-#     ['John', '25', 'New York'],
-#     ['Alice', '30', 'London'],
-#     ['Bob', '35', 'Paris']
-# ]
+        for key in init_data:
+            classifier = key.split(' ')[1].strip()
+            final_entry = f'{key} - {init_data[key]} {classifier}\n'
+            file.write(final_entry)
 
-# write_to_csv(data, 'output.csv')
+            # final_entry = key + " - " + init_data[key] + " " + classifier
+            # formatted_key = key.replace(',', '').replace('"', "'")
+            # formatted_value = init_data[key].replace(',', '').replace('"', "'")
+            # formatted_classifier = classifier.replace(',', '').replace('"', "'")
+            # final_entry = f'{formatted_key} - {formatted_value} {formatted_classifier}'
+            # print(final_entry)
+            # final_data.append(final_entry)
+            ## final_entry string contains unexpected characters being written to the file => makes csv file generation harder
 
-merge_by_base()
+write_to_csv('output2.csv')
+
+# merge_by_base()
