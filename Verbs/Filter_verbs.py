@@ -1,9 +1,8 @@
-# function to store all entries get the same base word
-
-# If the file is large and memory usage is a concern,
-# you can write the merged entries to a new file and then replace the original file
-# with the new file. This approach ensures that
-# you're not keeping both the original and merged entries in memory at the same time.
+# Similar filtering as with nouns
+# String structure: Default_verb_form - 1st_person_conjugation (clasifier), translation (classifier)
+# For a string '# akceptować - akceptuję (imp.), to accept (imp.)', extracts base word (akceptować - akceptuję (imp.))
+# and the next word (to accept (imp.)) for checking for duplicates
+# For any multiple entries sharing the same base words, merged them and write them to a new file
 
 import csv
 

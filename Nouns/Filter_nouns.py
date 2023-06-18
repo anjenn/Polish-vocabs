@@ -1,9 +1,7 @@
-# function to store all entries get the same base word
-
-# If the file is large and memory usage is a concern,
-# you can write the merged entries to a new file and then replace the original file
-# with the new file. This approach ensures that
-# you're not keeping both the original and merged entries in memory at the same time.
+# String structure: Noun (classifier) - Translation (classifier)
+# For a string '# administracja (f) - administration, optional (f)', extracts base word (administracja (f))
+# and the next word (administration, optional (f)) for checking for duplicates
+# For any multiple entries sharing the same base words, merged them and write them to a new file
 
 import csv
 
@@ -16,11 +14,10 @@ def read_csv(): #1. Read the CSV file and store them in a list
     with open(csv_file, 'r', encoding='utf-8') as file:
         reader = csv.reader(file)
         for row in reader: # administracja (f) - administration, optional (f)
-            entry = row[0]  # use => (Word1, Classifier, Word2)
+            entry = row[0]
             word1 = entry.split('-')[0].strip()
             word2 = entry.split('-')[1].strip().split('(')[0].strip()
             entries_list.append((word1, word2))
-    
     return entries_list
 
 def merge_by_base(): #2. Merge the entries with the same base word (Word1)
