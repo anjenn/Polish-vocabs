@@ -10,7 +10,7 @@ import csv
 
 def read_csv(): #1. Read the CSV file and store them in a list
     entries_list = []
-    csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\WIP\Nouns_Test.csv'
+    csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\WIP\Nouns.csv'
     # csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\WIP\Nouns.csv'
 
     with open(csv_file, 'r', encoding='utf-8') as file:
@@ -20,6 +20,7 @@ def read_csv(): #1. Read the CSV file and store them in a list
             word1 = entry.split('-')[0].strip()
             word2 = entry.split('-')[1].strip().split('(')[0].strip() # adding a comma makes it a tuple
             entries_list.append((word1, word2))
+    
     return entries_list
 
 def merge_by_base(): #2. Merge the entries with the same base word (Word1)
@@ -37,25 +38,26 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
             # Handle the duplicate key
             print(f"Duplicate key found: {key}")
             merged_entry = final_ent_dict[key] + ", " + word2 
-            print(f"Rest - Existing: {final_ent_dict[key]}")
             final_ent_dict[key] = merged_entry
             counter += 1
-            print(f"Rest - Current (new): {word2}")
             print(f"Merged entry: {final_ent_dict[key]}")
-            print(f"Counter: {counter}")
-            print(f"-----\n")
+            print(f"-----")
         else:
             seen_entries[key] = word2 # Store the key and rest of elements in the dictionary
             # Process the data and add it to the dictionary
             final_ent_dict[key] = seen_entries[key] # (classifier, word2)
-    print(f"Total merged entries: {len(final_ent_dict)}")
-    print(f"Counter: {counter}")
+
+    print(f"Total number of entries before merge: {len(entries_list)}")
+    print(f"Total number of entries without duplicates: {len(seen_entries)}")
+    print(f"Total number of final entries: {len(final_ent_dict)}")
+    print(f"Duplicates: {counter}")
     return final_ent_dict
 
 # function to replace the unecessary entries in the original file
 def write_to_csv(filename):
     final_ent_dict = merge_by_base() # key: (classifier, word2)
     data = []
+
     for key in final_ent_dict:
         entry = [key] + list(final_ent_dict[key])
         data.append(entry)  
