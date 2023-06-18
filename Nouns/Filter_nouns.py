@@ -29,7 +29,7 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
     final_ent_dict = {}
     seen_entries = {} # dictionary to store the entries that have been seen
 
-    for index, entry in enumerate(entries_list):
+    for entry in entries_list:
         key = entry[0]  # Assuming the first element of each tuple is the key
         rest = entry[1:] # word2
         word2 = "".join(rest).strip()
