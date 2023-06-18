@@ -26,22 +26,27 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
     for entry in entries_list:
         # make the second word a key, as the second word can appear multiple times
         key = entry[1]  # assuming the second element is a key
-        value = entry[0] # word1
+        # value = entry[0] # word1
+        value_list = [word.strip() for word in entry[0].split(',')] # word1
 
         if key in seen_entries:
             # Handle the duplicate key
             print(f"Duplicate key found: {key}")
-            if (final_ent_dict[key] != value):
-                merged_entry = final_ent_dict[key] + ", " + value 
-                final_ent_dict[key] = merged_entry
-                counter += 1
-                print(f"Merged entry: {final_ent_dict[key]}")
-            else:
-                print(f"Duplicate entry found: {final_ent_dict[key]}")
-                print(f"Duplicate entry: {value}, {final_ent_dict[key]}")
+            if(type(final_ent_dict[key]) == str): # this is required because when we store merged list into the final dictionary, we make it a string
+                old_value_list = final_ent_dict[key].split(', ')
+            elif(type(final_ent_dict[key]) == list):
+                old_value_list = final_ent_dict[key]
+            merged_value_set = set(old_value_list).union(value_list)
+           
+            merged_list = list(merged_value_set) # important to convert into list first instead of directly coverting to string to ensure that the order is preserved
+            merged_string = ', '.join(merged_list)
+
+            final_ent_dict[key] = merged_string
+            counter += 1
+            print(f"Merged entry: {final_ent_dict[key]}")
             print(f"-----")
         else:
-            seen_entries[key] = value
+            seen_entries[key] = value_list
             final_ent_dict[key] = seen_entries[key]
 
     print(f"Total number of entries before merge: {len(entries_list)}")
@@ -59,6 +64,6 @@ def write_to_file(filename):
             final_entry = f'{key} - {init_data[key]}\n'
             file.write(final_entry)
 
-write_to_file('Filtered_adjectives.txt')
+# write_to_file('Filtered_adjectives.txt')
 
-# merge_by_base()
+merge_by_base()

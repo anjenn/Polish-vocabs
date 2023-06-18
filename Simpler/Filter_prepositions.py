@@ -32,10 +32,13 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
         if key in seen_entries:
             # Handle the duplicate key
             print(f"Duplicate key found: {key}")
-            old_value_list = final_ent_dict[key]
+            if(type(final_ent_dict[key]) == str): # this is required because when we store merged list into the final dictionary, we make it a string
+                old_value_list = final_ent_dict[key].split(', ')
+            elif(type(final_ent_dict[key]) == list):
+                old_value_list = final_ent_dict[key]
             merged_value_set = set(old_value_list + value_list)
-            merged_string = ", ".join(merged_value_set)
-
+            merged_list = list(merged_value_set) # important to convert into list first instead of directly coverting to string to ensure that the order is preserved
+            merged_string = ', '.join(merged_list)
             final_ent_dict[key] = merged_string
             counter += 1
             print(f"Merged entry: {final_ent_dict[key]}")
