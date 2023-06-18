@@ -1,17 +1,19 @@
+# String structure: w (loc.) - in, at, on # word1 - word2
 ## Polish words were generated based on english word => polish may have duplicates
-# String structure: Abandoned - Opuszczony # word1 - word2
+## In thie particular file, there were multiple (and duplicative words) for the translation part
+## Which required a set to be used to remove duplicates
 # For any multiple entries sharing the same base words word1, merged them and write them to a new file
 
 import csv
 
 def read_csv(): #1. Read the CSV file and store them in a list
     entries_list = []
-    csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\Simpler\Adjectives.csv'
+    csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\Simpler\Prepositions.csv'
 
     with open(csv_file, 'r', encoding='utf-8') as file:
         reader = csv.reader(file)
         for row in reader: # Abandoned - Opuszczony
-            entry = row[0].lower()
+            entry = row[0].replace('"', '').lower()
             word1 = entry.split('-')[0].strip()
             word2 = entry.split('-')[1].strip()
             entries_list.append((word1, word2))
@@ -24,24 +26,22 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
     seen_entries = {} # dictionary to store the entries that have been seen
 
     for entry in entries_list:
-        # make the second word a key, as the second word can appear multiple times
-        key = entry[1]  # assuming the second element is a key
-        value = entry[0] # word1
-
+        key = entry[0]
+        value_list = [word.strip() for word in entry[1].split(',')]
+    
         if key in seen_entries:
             # Handle the duplicate key
             print(f"Duplicate key found: {key}")
-            if (final_ent_dict[key] != value):
-                merged_entry = final_ent_dict[key] + ", " + value 
-                final_ent_dict[key] = merged_entry
-                counter += 1
-                print(f"Merged entry: {final_ent_dict[key]}")
-            else:
-                print(f"Duplicate entry found: {final_ent_dict[key]}")
-                print(f"Duplicate entry: {value}, {final_ent_dict[key]}")
+            old_value_list = final_ent_dict[key]
+            merged_value_set = set(old_value_list + value_list)
+            merged_string = ", ".join(merged_value_set)
+
+            final_ent_dict[key] = merged_string
+            counter += 1
+            print(f"Merged entry: {final_ent_dict[key]}")
             print(f"-----")
         else:
-            seen_entries[key] = value
+            seen_entries[key] = value_list
             final_ent_dict[key] = seen_entries[key]
 
     print(f"Total number of entries before merge: {len(entries_list)}")
@@ -59,6 +59,6 @@ def write_to_file(filename):
             final_entry = f'{key} - {init_data[key]}\n'
             file.write(final_entry)
 
-write_to_file('Filtered_adjectives.txt')
+# write_to_file('Filtered_prepositions.txt')
 
-# merge_by_base()
+merge_by_base()
