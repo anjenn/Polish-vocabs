@@ -1,24 +1,22 @@
-# Similar filtering as with nouns
-# String structure: Default_verb_form - 1st_person_conjugation (clasifier), translation (classifier)
-# For a string '# akceptować - akceptuję (imp.), to accept (imp.)', extracts base word (akceptować - akceptuję (imp.))
-# and the next word (to accept (imp.)) for checking for duplicates
-# For any multiple entries sharing the same base words, merged them and write them to a new file
+# String structure: i - and # word1 - word2
+## Polish words were generated based on english word => polish may have duplicates
+## In thie particular file, there were multiple (and duplicative words) for the translation part
+## Which required a set to be used to remove duplicates
+# For any multiple entries sharing the same base words word1, merged them and write them to a new file
 
 import csv
 
-
 def read_csv(): #1. Read the CSV file and store them in a list
     entries_list = []
-    csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\Verbs\Verbs.csv'
+    csv_file = r'C:\Users\anjen\Documents\Github\Polish-vocabs\Conjunctions\Conjunctions.csv'
 
     with open(csv_file, 'r', encoding='utf-8') as file:
         reader = csv.reader(file)
-        for row in reader: # "akceptować - akceptuję (imp.), to accept (imp.)"
-            entry = row[0].replace('"', '')  # akceptować - akceptuję (imp.), to accept (imp.)
-            word1 = entry.split(',')[0].strip()
-            word2 = entry.split(',')[1].strip().split('(')[0].strip()
+        for row in reader: # "natomiast - however, whereas"
+            entry = row[0].replace('"', '').lower()
+            word1 = entry.split('-')[0].strip()
+            word2 = entry.split('-')[1].strip()
             entries_list.append((word1, word2))
-    
     return entries_list
 
 def merge_by_base(): #2. Merge the entries with the same base word (Word1)
@@ -28,8 +26,9 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
     seen_entries = {} # dictionary to store the entries that have been seen
 
     for entry in entries_list:
-        key = entry[0]  # Assuming the first element of each tuple is the key
+        key = entry[0]
         value_list = [word.strip() for word in entry[1].split(',')]
+    
         if key in seen_entries:
             # Handle the duplicate key
             print(f"Duplicate key found: {key}")
@@ -56,18 +55,13 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
 
 # function to replace the unecessary entries in the original file
 def write_to_file(filename):
-    init_data = merge_by_base() # init_data[key]: (classifier, word2)
-    # final_data = []
+    init_data = merge_by_base() # format: translation - init_data[key]
 
     with open(filename, 'w', newline='', encoding='utf-8') as file:
-        # writer = csv.writer(file, dialect='excel')
-        # writer.writerows(final_data)
-
         for key in init_data:
-            classifier = '(' + key.split('(')[1].strip()
-            final_entry = f'{key} - {init_data[key]} {classifier}\n'
+            final_entry = f'{key} - {init_data[key]}\n'
             file.write(final_entry)
 
-# write_to_file('Filtered_verbs.txt')
+# write_to_file('Filtered_conjunctions.txt')
 
 merge_by_base()

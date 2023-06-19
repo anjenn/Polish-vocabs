@@ -28,25 +28,48 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
 
     for entry in entries_list:
         key = entry[0]  # Assuming the first element of each tuple is the key
-        rest = entry[1:] # word2
-        word2 = "".join(rest).strip()
+        # administracja (f)
+        
+        ## What's below is supposed to work the same way as the new solution, but this may not work when dealing with multiple words per entry with more overlaps over the base word
+        # rest = entry[1] # word2
+        # # administration, sthElse
+        # word2 = "".join(rest).strip()
 
+        # if key in seen_entries:
+        #     # Handle the duplicate key
+        #     print(f"Duplicate key found: {key}")
+        #     if (final_ent_dict[key] != word2):
+        #         merged_entry = final_ent_dict[key] + ", " + word2 
+        #         final_ent_dict[key] = merged_entry
+        #         counter += 1
+        #         print(f"Merged entry: {final_ent_dict[key]}")
+        #     else:
+        #         print(f"Duplicate entry found: {final_ent_dict[key]}")
+        #         print(f"Duplicate entry: {word2}, {final_ent_dict[key]}")
+        #     print(f"-----")
+        # else:
+        #     seen_entries[key] = word2 # Store the key and rest of elements in the dictionary
+        #     # Process the data and add it to the dictionary
+        #     final_ent_dict[key] = seen_entries[key] # (classifier, word2)
+
+        value_list = [word.strip() for word in entry[1].split(',')]
         if key in seen_entries:
             # Handle the duplicate key
             print(f"Duplicate key found: {key}")
-            if (final_ent_dict[key] != word2):
-                merged_entry = final_ent_dict[key] + ", " + word2 
-                final_ent_dict[key] = merged_entry
-                counter += 1
-                print(f"Merged entry: {final_ent_dict[key]}")
-            else:
-                print(f"Duplicate entry found: {final_ent_dict[key]}")
-                print(f"Duplicate entry: {word2}, {final_ent_dict[key]}")
+            if(type(final_ent_dict[key]) == str): # this is required because when we store merged list into the final dictionary, we make it a string
+                old_value_list = final_ent_dict[key].split(', ')
+            elif(type(final_ent_dict[key]) == list):
+                old_value_list = final_ent_dict[key]
+            merged_value_set = set(old_value_list + value_list)
+            merged_list = list(merged_value_set) # important to convert into list first instead of directly coverting to string to ensure that the order is preserved
+            merged_string = ', '.join(merged_list)
+            final_ent_dict[key] = merged_string
+            counter += 1
+            print(f"Merged entry: {final_ent_dict[key]}")
             print(f"-----")
         else:
-            seen_entries[key] = word2 # Store the key and rest of elements in the dictionary
-            # Process the data and add it to the dictionary
-            final_ent_dict[key] = seen_entries[key] # (classifier, word2)
+            seen_entries[key] = value_list
+            final_ent_dict[key] = seen_entries[key]
 
     print(f"Total number of entries before merge: {len(entries_list)}")
     print(f"Total number of entries without duplicates: {len(seen_entries)}")
