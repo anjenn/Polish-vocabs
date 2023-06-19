@@ -59,9 +59,11 @@ def write_to_file(filename):
 
     with open(filename, 'w', newline='', encoding='utf-8') as file:
         for key in init_data:
+            if(type(init_data[key]) == list):
+                init_data[key] = ', '.join(init_data[key])
             final_entry = f'{key} - {init_data[key]}\n'
             file.write(final_entry)
 
-# write_to_file('Filtered_conjunctions.txt')
+write_to_file('Filtered_conjunctions.txt')
 
 merge_by_base()
