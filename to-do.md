@@ -1,3 +1,2 @@
-1. Fix adverbs filter
-2. Review the grammar document
-3. Generate quizlet set
+1. Review the grammar document
+2. Generate quizlet set
