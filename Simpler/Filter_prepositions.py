@@ -36,7 +36,7 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
                 old_value_list = final_ent_dict[key].split(', ')
             elif(type(final_ent_dict[key]) == list):
                 old_value_list = final_ent_dict[key]
-            merged_value_set = set(old_value_list + value_list)
+            merged_value_set = set(old_value_list).union(value_list)
             merged_list = list(merged_value_set) # important to convert into list first instead of directly coverting to string to ensure that the order is preserved
             merged_string = ', '.join(merged_list)
             final_ent_dict[key] = merged_string
@@ -59,9 +59,11 @@ def write_to_file(filename):
 
     with open(filename, 'w', newline='', encoding='utf-8') as file:
         for key in init_data:
-            final_entry = f'{key} - {init_data[key]}\n'
+            if(type(init_data[key]) == list):
+                init_data[key] = ', '.join(init_data[key])
+            final_entry = f'{key}/{init_data[key]}\n'
             file.write(final_entry)
 
-# write_to_file('Filtered_prepositions.txt')
+write_to_file('Filtered_prepositions.txt')
 
-merge_by_base()
+# merge_by_base()

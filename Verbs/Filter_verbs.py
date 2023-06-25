@@ -64,10 +64,12 @@ def write_to_file(filename):
         # writer.writerows(final_data)
 
         for key in init_data:
+            if(type(init_data[key]) == list):
+                init_data[key] = ', '.join(init_data[key])
             classifier = '(' + key.split('(')[1].strip()
-            final_entry = f'{key} - {init_data[key]} {classifier}\n'
+            final_entry = f'{key}/{init_data[key]} {classifier}\n'
             file.write(final_entry)
 
-# write_to_file('Filtered_verbs.txt')
+write_to_file('Filtered_verbs.txt')
 
-merge_by_base()
+# merge_by_base()
