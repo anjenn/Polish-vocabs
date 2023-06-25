@@ -87,8 +87,10 @@ def write_to_file(filename):
         # writer.writerows(final_data)
 
         for key in init_data:
+            if(type(init_data[key]) == list):
+                init_data[key] = ', '.join(init_data[key])
             classifier = key.split(' ')[1].strip()
-            final_entry = f'{key} - {init_data[key]} {classifier}\n'
+            final_entry = f'{key}/{init_data[key]} {classifier}\n'
             file.write(final_entry)
 
             ## final_entry string contains unexpected characters being written to the file => makes csv file generation harder
