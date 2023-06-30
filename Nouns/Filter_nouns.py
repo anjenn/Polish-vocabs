@@ -1,3 +1,5 @@
+# Change ! it used to be 'aparat (m)/camera (m) format, get rid of classification tag next to english translation
+
 # String structure: Noun (classifier) - Translation (classifier)
 # For a string '# administracja (f) - administration, optional (f)', extracts base word (administracja (f))
 # and the next word (administration, optional (f)) for checking for duplicates
@@ -61,7 +63,7 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
             elif(type(final_ent_dict[key]) == list):
                 old_value_list = final_ent_dict[key]
             merged_value_set = set(old_value_list + value_list)
-            merged_list = list(merged_value_set) # important to convert into list first instead of directly coverting to string to ensure that the order is preserved
+            merged_list = list(merged_value_set)[:2] # important to convert into list first instead of directly coverting to string to ensure that the order is preserved
             merged_string = ', '.join(merged_list)
             final_ent_dict[key] = merged_string
             counter += 1
@@ -89,8 +91,7 @@ def write_to_file(filename):
         for key in init_data:
             if(type(init_data[key]) == list):
                 init_data[key] = ', '.join(init_data[key])
-            classifier = key.split(' ')[1].strip()
-            final_entry = f'{key}/{init_data[key]} {classifier}\n'
+            final_entry = f'{key}/{init_data[key]}\n'
             file.write(final_entry)
 
             ## final_entry string contains unexpected characters being written to the file => makes csv file generation harder

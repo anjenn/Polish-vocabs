@@ -15,7 +15,8 @@ def read_csv(): #1. Read the CSV file and store them in a list
         reader = csv.reader(file)
         for row in reader: # "akceptować - akceptuję (imp.), to accept (imp.)"
             entry = row[0].replace('"', '')  # akceptować - akceptuję (imp.), to accept (imp.)
-            word1 = entry.split(',')[0].strip()
+            word1 = entry.split('.')[0].strip()
+            word1 = word1.replace(' - ', '-')
             word2 = entry.split(',')[1].strip().split('(')[0].strip()
             entries_list.append((word1, word2))
     
@@ -38,7 +39,7 @@ def merge_by_base(): #2. Merge the entries with the same base word (Word1)
             elif(type(final_ent_dict[key]) == list):
                 old_value_list = final_ent_dict[key]
             merged_value_set = set(old_value_list + value_list)
-            merged_list = list(merged_value_set) # important to convert into list first instead of directly coverting to string to ensure that the order is preserved
+            merged_list = list(merged_value_set)[:2] # important to convert into list first instead of directly coverting to string to ensure that the order is preserved
             merged_string = ', '.join(merged_list)
             final_ent_dict[key] = merged_string
             counter += 1
@@ -66,8 +67,7 @@ def write_to_file(filename):
         for key in init_data:
             if(type(init_data[key]) == list):
                 init_data[key] = ', '.join(init_data[key])
-            classifier = '(' + key.split('(')[1].strip()
-            final_entry = f'{key}/{init_data[key]} {classifier}\n'
+            final_entry = f'{key})/{init_data[key]}\n'
             file.write(final_entry)
 
 write_to_file('Filtered_verbs.txt')

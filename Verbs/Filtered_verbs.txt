@@ -1,685 +1,685 @@
-akceptować - akceptuję (imp.)/to accept (imp.)
-analizować - analizuję (imp.)/to analyze (imp.)
-bać się - boję się (imp.)/to fear (imp.)
-bawić - bawię (imp.)/to entertain (imp.)
-bić - biję (imp.)/to beat (imp.)
-biec - biegnę (imp.)/to run (imp.)
-błagać - błagam (imp.)/to beg (imp.)
-boleć - bolię (imp.)/to hurt (imp.)
-brać - biorę (imp.)/to take (imp.)
-brać ślub - biorę ślub (imp.)/to marry (imp.)
-budować - buduję (imp.)/to build (imp.)
-budzić - budzę (imp.)/to wake (imp.)
-budzić się - budzę się (imp.)/to awake (imp.)
-być - jestem (imp.)/to be (imp.)
-być winnym - jestem winny (imp.)/to owe (imp.)
-chcieć - chcę (imp.)/to want (imp.)
-chodzić - chodzę (freq.)/to walk (freq.)
-chować - chowam (imp.)/to hide (imp.)
-chronić - chronię (imp.)/to protect (imp.)
-ciąć - tnę (imp.)/to cut (imp.)
-ciągnąć - ciągnę (imp.)/to drag (imp.)
-cierpieć - cierpię (imp.)/to suffer (imp.)
-cieszyć się - cieszę się (imp.)/to enjoy (imp.)
-ćwiczyć - będę ćwiczyć (perf.)/to practice (perf.)
-ćwiczyć - ćwiczę (imp.)/to exercise (imp.)
-czuć - czuję (imp.)/to feel (imp.)
-czyścić - czyścę (imp.)/to clean (imp.)
-czytać - czytam (imp.)/to read (imp.)
-dać - dam (perf.)/to give (perf.)
-dawać - daję (imp.)/to give (imp.)
-decydować - decyduję (imp.)/to decide (imp.)
-dekorować - dekoruję (imp.)/to decorate (imp.)
-denerwować - denerwuję (imp.)/to annoy (imp.)
-deservować - zasługuję (imp.)/to deserve (imp.)
-dmuchać - dmucham (imp.)/to blow (imp.)
-dmuchnąć - dmuchnę (perf.)/to blow (perf.)
-dodać - dodam (perf.)/to add (perf.)
-dodawać - dodaję (imp.)/to add (imp.)
-dogonić - dogonię (perf.)/to chase (perf.)
-dopasować - dopasowuję (imp.)/to match (imp.)
-dopasować - dopasuję (perf.)/to fit (perf.)
-dostarczać - dostarczam (imp.)/to deliver (imp.)
-dostarczyć - dostarczę (perf.)/to deliver (perf.)
-dostawać - dostaję (imp.)/to get (imp.)
-dostrzegać - dostrzegam (imp.)/to spot (imp.)
-dotknąć - dotknę (perf.)/to concern, to touch (perf.)
-dotyczyć - dotyczę (imp.)/to concern (imp.)
-dotykać - dotykam (imp.)/to touch (imp.)
-drapać - drapię (imp.)/to scratch (imp.)
-drukować - drukuję (imp.)/to print (imp.)
-działać - działam (imp.)/to work (imp.)
-dziękować - dziękuję (imp.)/to thank (imp.)
-dzielić - dzielę (imp.)/to divide (imp.)
-dzwonić - dzwonię (imp.)/to call (imp.)
-eksplodować - eksploduję (imp.)/to explode (imp.)
-formować - formuję (imp.)/to form (imp.)
-gapić się - gapimy się (imp.)/to stare (imp.)
-ginać - ginę (imp.)/to bend (imp.)
-golić się - golię się (imp.)/to shave (imp.)
-gonić - gonię (imp.)/to chase (imp.)
-gotować - gotuję (imp.)/to cook (imp.)
-grać - gram (imp.)/to play (imp.)
-gryźć - gryzę (imp.)/to bite (imp.)
-handlować - handluję (imp.)/to deal (imp.)
-iść - idę (imp.)/to go (imp.)
-istnieć - istnieję (imp.)/to exist (imp.)
-jeść - jem (imp.)/to eat (imp.)
-jeździć - jeżdżę (imp.)/to drive, to ride (imp.)
-karać - karzę (imp.)/to punish (imp.)
-karmić - karmię (imp.)/to feed (imp.)
-kaszleć - kaszlę (imp.)/to cough (imp.)
-kibicować - kibicuję (imp.)/to cheer (imp.)
-kichać - kicham (imp.)/to sneeze (imp.)
-kłamać - kłamię (imp.)/to lie (imp.)
-kłaść - kładę (imp.)/to put, to lay (imp.)
-klaskać - klaskam (imp.)/to clap (imp.)
-kłopotać się - kłopoczę się (imp.)/to worry (imp.)
-kochać - kocham (imp.)/to love (imp.)
-komunikować się - komunikuję się (imp.)/to communicate (imp.)
-koncentrować się - koncentruję się (imp.)/to concentrate (imp.)
-kończyć - kończę (imp.)/to end (imp.)
-kontynuować - kontynuuję (imp.)/to continue (imp.)
-kopać - kopię (imp.)/to dig (imp.)
-kopiować - kopiuję (imp.)/to copy (imp.)
-kosztować - kosztuję (imp.)/to cost (imp.)
-kosztować - kosztuję (perf.)/to cost (perf.)
-kraść - kradnę (imp.)/to steal (imp.)
-kręcić - kręcę (imp.)/to curl (imp.)
-kręcić film - kręcę film (imp.)/to film (imp.)
-krwawić - krwawię (imp.)/to bleed (imp.)
-krzyczeć - krzyczę (imp.)/to scream (imp.)
-kształcić - kształcę (imp.)/to educate (imp.)
-kupić - kupię (perf.)/to buy (perf.)
-kupować - kupuję (imp.)/to buy (imp.)
-kurzyć - kurzę (imp.)/to dust (imp.)
-lać - leję (imp.)/to pour (imp.)
-łączyć - łączę (imp.)/to connect (imp.)
-ładować - ładuję (imp.)/to charge (imp.)
-łamać - łamię (imp.)/to break (imp.)
-łapać - łapię (imp.)/to catch (imp.)
-latać - latam (imp.)/to fly (imp.)
-leczyć - leczę (imp.)/to cure (imp.)
-liczyć - liczę (imp.)/to count (imp.)
-literować - literuję (imp.)/to spell (imp.)
-lubić - lubię (imp.)/to like (imp.)
-malować - maluję (imp.)/to paint (imp.)
-martwić się - martwię się (imp.)/to worry (imp.)
-mieć - będę miał (perf.)/to have (perf.)
-mieć - mam (imp.)/to have (imp.)
-mierzyć czas - mierzę czas (imp.)/to time (imp.)
-mieszać - mieszam (imp.)/to mix (imp.)
-mieszkać - mieszkam (imp.)/to live (imp.)
-migać - migam (imp.)/to flash (imp.)
-modlić się - modlę się (imp.)/to pray (imp.)
-mówić - mówię (imp.)/to speak (imp.)
-mrugać - mrugam (imp.)/to blink (imp.)
-mrugnąć - mrugnę (perf.)/to wink (perf.)
-myć - myję (imp.)/to wash (imp.)
-mylić - mylę (imp.)/to confuse (imp.)
-myśleć - myślę (imp.)/to think (imp.)
-nacieszyć się - nacieszę się (perf.)/to enjoy (perf.)
-nadać - naciśnię (perf.)/to press (perf.)
-nagrać - nagram (perf.)/to record (perf.)
-nagrać film - nagram film (perf.)/to film (perf.)
-nagrywać - nagrywam (imp.)/to record (imp.)
-nakarmić - nakarmię (perf.)/to feed (perf.)
-naładować - naładuję (perf.)/to charge (perf.)
-należeć - należę (imp.)/to belong (imp.)
-napompować - napompuję (perf.)/to pump (perf.)
-naprawiać - naprawiam (imp.)/to repair (imp.)
-naprawić - naprawię (perf.)/to repair (perf.)
-naprogramować - naprogramuję (perf.)/to program (perf.)
-narysować - narysuję (perf.)/to draw (perf.)
-nastąpić - nastąpię (perf.)/to occur (perf.)
-następować - następuję (imp.)/to occur (imp.)
-nauczyć - nauczę (perf.)/to teach (perf.)
-nauczyć się - nauczę się (perf.)/to learn (perf.)
-nazwać - nazwę (perf.)/to name (perf.)
-nazywać - nazywam (imp.)/to name (imp.)
-nie lubić - nie lubię (imp.)/to dislike (imp.)
-nie polubić - nie polubię (perf.)/to dislike (perf.)
-nie udać się - nie udaje się (imp.)/to fail (imp.)
-nie zgadzać się - nie zgadzam się (imp.)/to disagree (imp.)
-nie zgodzić się - nie zgodzę się (perf.)/to disagree (perf.)
-nieść - niosę (imp.)/to carry sth habitually (imp.)
-niszczyć - niszczę (imp.)/to destroy, to ruin (imp.)
-nosić - noszę (imp.)/to wear (imp.)
-obiecać - obiecuję (perf.)/to promise (perf.)
-obiecywać - obiecuję (imp.)/to promise (imp.)
-obliczać - obliczam (imp.)/to calculate (imp.)
-obliczyć - obliczę (perf.)/to calculate (perf.)
-obrażać - obrażam (imp.)/to offend (imp.)
-obserwować - obserwuję (imp.)/to observe (imp.)
-obsługiwać - obsługuję (imp.)/to serve (imp.)
-obsłużyć - obsłużę (perf.)/to serve (perf.)
-obudzić - obudzę (perf.)/to wake (perf.)
-obudzić się - obudzę się (perf.)/to awake (perf.)
-ochronić - ochronię (perf.)/to protect (perf.)
-oczekiwać - oczekuję (imp.)/to expect (imp.)
-oczyścić - oczyścę (perf.)/to clean (perf.)
-odbić się - odbijam się (imp.)/to bounce (imp.)
-odbierać - odbieram (imp.)/to receive (imp.)
-odbijać się - odbijam się (imp.)/to bounce (imp.)
-oddychać - oddycham (imp.)/to breathe (imp.)
-odkryć - odkryję (perf.)/to discover (perf.)
-odkrywać - odkrywam (imp.)/to discover (imp.)
-odkurzyć - odkurzę (perf.)/to dust (perf.)
-odmawiać - odmawiam (imp.)/to refuse (imp.)
-odmówić - odmówię (perf.)/to refuse (perf.)
-odpoczywać - odpoczywam (imp.)/to rest (imp.)
-odpowiadać - odpowiadam (imp.)/to reply (imp.)
-odpowiedzieć - odpowiem (perf.)/to reply (perf.)
-odprężać się - odprężam się (imp.)/to relax (imp.)
-odprężyć się - odprężę się (perf.)/to relax (perf.)
-odrzucać - odrzucam (imp.)/to reject (imp.)
-odrzucić - odrzucę (perf.)/to reject (perf.)
-odwiedzać - odwiedzam (imp.)/to visit (imp.)
-odwiedzić - odwiedzę (perf.)/to visit (perf.)
-odzwierciedlać - odzwierciedlam (imp.)/to reflect (imp.)
-odzwierciedlić - odzwierciedlę (perf.)/to reflect (perf.)
-oferować - oferuję (imp.)/to offer (imp.)
-ogłaszać - ogłaszam (imp.)/to announce (imp.)
-ogolić się - ogolę się (perf.)/to shave (perf.)
-oklasknąć - oklasknę (perf.)/to cheer (perf.)
-omijać - omijam (imp.)/to skip (imp.)
-opisać - opiszę (perf.)/to describe (perf.)
-opisywać - opisuję (imp.)/to describe (imp.)
-opłukać - opłuczę (perf.)/to rinse (perf.)
-opowiadać - opowiadam (imp.)/to tell (imp.)
-opóźniać - opóźniam (imp.)/to delay (imp.)
-opóźnić - opóźnię (perf.)/to delay (perf.)
-opróżniać - opróżniam (imp.)/to empty (imp.)
-opróżnić - opróżnię (perf.)/to empty (perf.)
-opuścić - opuszczę (perf.)/to leave (perf.)
-opuszczać - opuszczam (imp.)/to abandon (imp.)
-osiągać - osiągam (imp.)/to reach (imp.)
-osiągać sukces - osiągam sukces (imp.)/to succeed (imp.)
-osiągnąć - osiągnę (perf.)/to reach (perf.)
-osiągnąć sukces - osiągnę sukces (perf.)/to succeed (perf.)
-oszukać - oszukam (perf.)/to cheat (perf.)
-oszukiwać - oszukuję (imp.)/to cheat (imp.)
-otrzymać - otrzymam (perf.)/to receive (perf.)
-otrzymywać - otrzymuję (imp.)/to receive (imp.)
-otwierać - otwieram (imp.)/to open (imp.)
-otworzyć - otworzę (perf.)/to open (perf.)
-oznaczać - oznaczam (imp.)/to mean (imp.)
-oznaczać - oznaczyć (perf.)/to mean (perf.)
-padać - pada (imp.)/to rain (imp.)
-pakować - pakuję (imp.)/to pack (imp.)
-palić - palę (imp.)/to smoke, to burn (imp.)
-pamiętać - pamiętam (imp.)/to remember (imp.)
-parkować - parkuję (imp.)/to park (imp.)
-pasować - pasuję (imp.)/to fit (imp.)
-patrzeć - patrzę (imp.)/to look (imp.)
-pchać - pcham (imp.)/to push (imp.)
-pękać - pękam (imp.)/to burst, to pop (imp.)
-pęknąć - pęknę (perf.)/to burst (perf.)
-pęknąć - pęknie (perf.)/to pop (perf.)
-pić - piję (imp.)/to drink (imp.)
-piec - piekę (imp.)/to bake (imp.)
-pisać - piszę (imp.)/to write (imp.)
-płacić - płacę (imp.)/to pay (imp.)
-płakać - płaczę (imp.)/to cry (imp.)
-planować - planuję (imp.)/to plan (imp.)
-pływać - pływam (imp.)/to swim (imp.)
-pobiec - pobiegnę (perf.)/to run (perf.)
-pobudzać - pobudzam (imp.)/to excite (imp.)
-pobudzić - pobudzę (perf.)/to excite (perf.)
-pociągnąć - pociągnę (perf.)/to drag (perf.)
-poczuć - poczuję (perf.)/to feel (perf.)
-podjechać - podjadę (perf.)/to drive (perf.)
-podłączać - podłączam (imp.)/to plug (imp.)
-podłączyć - podłączę (perf.)/to plug (perf.)
-podnieść - podniosę (perf.)/to raise (perf.)
-podnosić - podnoszę (imp.)/to raise (imp.)
-podpisać - podpiszę (perf.)/to sign (perf.)
-podpisywać - podpisuję (imp.)/to sign (imp.)
-podrapać - podrapię (perf.)/to scratch (perf.)
-podróżować - podróżuję (imp.)/to travel (imp.)
-podziękować - podziękuję (perf.)/to thank (perf.)
-podzielić - podzielę (perf.)/to divide (perf.)
-podziwiać - podziwiam (imp.)/to admire (imp.)
-podziwić - podziwiam (imp.)/to admire (imp.)
-pojechać - pojadę (perf.)/to ride (perf.)
-pójść - pójdę (perf.)/to go (perf.)
-pokazać - pokażę (perf.)/to show (perf.)
-pokazywać - pokazuję (imp.)/to show (imp.)
-pokochać - pokocham (perf.)/to love (perf.)
-pokonać - pokonam (perf.)/to fight (perf.)
-pokonywać - pokonuję (imp.)/to overcome (imp.)
-pokrwawić - pokrwawię (perf.)/to bleed (perf.)
-połączyć - połączę (perf.)/to connect (perf.)
-polecieć - polecę (perf.)/to fly (perf.)
-polegać - będę polegać (perf.)/to rely (perf.)
-polegać - polegam (imp.)/to rely (imp.)
-policzyć - policzę (perf.)/to count (perf.)
-położyć - położę (perf.)/to lay (perf.)
-polubić - polubię (perf.)/to like (perf.)
-pomagać - pomagam (imp.)/to help (imp.)
-pomalować - pomaluję (perf.)/to paint (perf.)
-pomieszać - pomieszam (perf.)/to confuse (perf.)
-pominąć - pominię (perf.)/to skip (perf.)
-pomodlić się - pomodlę się (perf.)/to pray (perf.)
-pompować - pompuję (imp.)/to pump (imp.)
-pomylić się - mylę się (imp.)/to mistake (imp.)
-pomylić się - pomylię się (perf.)/to mistake (perf.)
-pomyśleć - pomyślę (perf.)/to think (perf.)
-popadać - będę padać (perf.)/to rain (perf.)
-popatrzeć - popatrzę (perf.)/to look (perf.)
-popchnąć - popchnę (perf.)/to push (perf.)
-popłynąć - popłynę (perf.)/to sail (perf.)
-poprawiać - poprawiam (imp.)/to correct (imp.)
-poprawić - poprawię (perf.)/to correct (perf.)
-poprowadzić - poprowadzę (perf.)/to lead (perf.)
-poradzić - poradzę (perf.)/to advise (perf.)
-porównać - porównam (perf.)/to compare (perf.)
-porównywać - porównuję (imp.)/to compare (imp.)
-porozmawiać - porozmawiam (perf.)/to talk (perf.)
-poruszać się - poruszam się (imp.)/to move (imp.)
-posiadać - posiadam (imp.)/to possess (imp.)
-posiąść - posiądę (perf.)/to possess (perf.)
-poskarżyć się - poskarżę się (perf.)/to complain (perf.)
-poślubić - poślubiam (imp.)/to marry (imp.)
-poślubić - poślubię (perf.)/to marry (perf.)
-posłuchać - posłucham (perf.)/to listen (perf.)
-postać - stanę (perf.)/to stand (perf.)
-postawić - postawię (perf.)/to bet (perf.)
-potańczyć - potańczę (perf.)/to dance (perf.)
-potknąć się - potknę się (perf.)/to trip (perf.)
-potrząsnąć - potrząsnę (perf.)/to shake (perf.)
-potrzebować - będę potrzebować (perf.)/to need (perf.)
-potrzebować - potrzebuję (imp.)/to need (imp.)
-potykać się - potykam się (imp.)/to trip (imp.)
-poukładać - poukładam (perf.)/to manage (perf.)
-powiedzieć - powiem (perf.)/to speak (perf.)
-powiesić - powieszę (perf.)/to hang (perf.)
-powitać - powitam (perf.)/to welcome (perf.)
-powodować - powoduję (imp.)/to cause (imp.)
-powtarzać - powtarzam (imp.)/to repeat (imp.)
-powtórzyć - powtórzę (perf.)/to repeat (perf.)
-poznać - poznam (perf.)/to meet (perf.)
-poznawać - poznaję (imp.)/to get to know (imp.)
-pozostać - pozostanę (perf.)/to remain (perf.)
-pozostawać - pozostaję (imp.)/to remain (imp.)
-pozwalać - pozwalam (imp.)/to allow (imp.)
-pozwolić - pozwolę (perf.)/to let (perf.)
-pożyczać - pożyczam (imp.)/to borrow (imp.)
-pożyczyć - pożyczę (perf.)/to borrow (perf.)
-pracować - będę pracować (perf.)/to work (perf.)
-pracować - pracuję (imp.)/to work (imp.)
-preferować - preferuję (imp.)/to prefer (imp.)
-prezentować - prezentuję (imp.)/to present (imp.)
-próbować - próbuję (imp.)/to try (imp.)
-produkować - produkuje (imp.)/to produce (imp.)
-programować - programuję (imp.)/to program (imp.)
-prowadzić - poprowadzę (perf.)/to manage (perf.)
-prowadzić - prowadzę (imp.)/to lead (imp.)
-przechodzić - przechodzę (imp.)/to pass (imp.)
-przechodzić na emeryturę - przechodzę na emeryturę (imp.)/to retire (imp.)
-przeciąć - przetnę (perf.)/to cut (perf.)
-przeczytać - przeczytam (perf.)/to read (perf.)
-przejść - przejdę (perf.)/to pass (perf.)
-przejść na emeryturę - przejdę na emeryturę (perf.)/to retire (perf.)
-przekraczać - przekraczam (imp.)/to cross (imp.)
-przekroczyć - przekroczę (perf.)/to cross (perf.)
-przełączać - przełączam (imp.)/to switch (imp.)
-przełączyć - przełączę (perf.)/to switch (perf.)
-przeliterować - przeliteruję (perf.)/to spell (perf.)
-przenieść się - przeniosę się (perf.)/to move (perf.)
-przepraszać - przepraszam (imp.)/to apologize (imp.)
-przeprosić - przepraszam (imp.)/to apologize (imp.)
-przesłuchać - przesłucham (perf.)/to listen (perf.)
-przestraszyć - przestraszę (perf.)/to scare (perf.)
-przetestować - przetestuję (perf.)/to test (perf.)
-przeżyć - przeżyję (perf.)/to live (perf.)
-przychodzić - przychodzę (imp.)/to come (imp.)
-przygotować - przygotuję (perf.)/to prepare (perf.)
-przygotowywać - przygotowuję (imp.)/to prepare (imp.)
-przyjść - przyjdę (perf.)/to come (perf.)
-przykryć - przykryję (perf.)/to cover (perf.)
-przykrywać - przykrywam (imp.)/to cover (imp.)
-przynieść - przyniosę (perf.)/to bring (perf.)
-przynosić - przynoszę (imp.)/to bring (imp.)
-przypominać - przypominam (imp.)/to remind (imp.)
-przypuszczać - przypuszczam (imp.)/to suppose (imp.)
-przysiąc - przysięgnę (perf.)/to swear (perf.)
-przysięgać - przysięgam (imp.)/to swear (imp.)
-przyśnić się - przyśnię się (perf.)/to dream (perf.)
-przystawać - przystaję (imp.)/to fit (imp.)
-przyznać - przyznaję (imp.)/to admit (imp.)
-przyznać się - przyznaję się (perf.)/to admit (perf.)
-psikać - psikam (imp.)/to spray (imp.)
-psiknąć - psiknę (perf.)/to spray (perf.)
-pytać - pytam (imp.)/to ask (imp.)
-radzić - radzę (imp.)/to advise (imp.)
-raportować - raportuję (imp.)/to report (imp.)
-ratować - ratuję (imp.)/to save, to rescue (imp.)
-redukować - redukuję (imp.)/to reduce (imp.)
-rezerwować - rezerwuję (imp.)/to book (imp.)
-robić - robię (imp.)/to do (imp.)
-robić zakupy - robię zakupy (imp.)/to shop (imp.)
-rosnąć - rosnę (imp.)/to grow (imp.)
-rozdzielać - rozdzielam (imp.)/to separate (imp.)
-rozdzielić - rozdzielę (perf.)/to separate (perf.)
-rozlać - rozleję (perf.)/to spill (perf.)
-rozlewać - rozlewam (imp.)/to spill (imp.)
-rozmawiać - rozmawiam (imp.)/to talk (imp.)
-rozpalić - rozpalę (perf.)/to fire (perf.)
-rozpocząć - rozpocznę (perf.)/to begin (perf.)
-rozpoczynać - rozpoczynam (imp.)/to start (imp.)
-rozpoznać - rozpoznam (perf.)/to recognise (perf.)
-rozpoznawać - rozpoznaję (imp.)/to recognise (imp.)
-rozprzestrzeniać się - rozprzestrzeniam się (imp.)/to spread (imp.)
-rozprzestrzenić się - rozprzestrzenię się (perf.)/to spread (perf.)
-rozrywkać - rozrywam (imp.)/to entertain (imp.)
-rozśmieszyć - rozśmieszę (perf.)/to laugh (perf.)
-rozświetlić - rozświetlę (perf.)/to flash (perf.)
-rozszerzać - rozszerzam (imp.)/to expand (imp.)
-rozszerzyć - rozszerzę (perf.)/to expand (perf.)
-roztopić - roztopię (perf.)/to melt (perf.)
-rozumieć - rozumiem (imp.)/to understand (imp.)
-rozważać - rozważam (imp.)/to consider (imp.)
-rozważyć - rozważę (perf.)/to consider (perf.)
-rozwiązywać - rozwiązuję (imp.)/to solve (imp.)
-rozwijać - rozwijam (imp.)/to develop (imp.)
-rozwinąć - rozwinę (perf.)/to develop (perf.)
-rumienić się - rumienię się (imp.)/to blush (imp.)
-rysować - rysuję (imp.)/to draw (imp.)
-rywalizować - rywalizuję (imp.)/to compete (imp.)
-rzucać - rzucam (imp.)/to throw (imp.)
-rzucić - rzucę (perf.)/to throw (perf.)
-sadzić - sadzę (imp.)/to plant (imp.)
-schować - schowam (perf.)/to hide (perf.)
-schronić - schronię (perf.)/to shelter (perf.)
-schronić się - schronię się (perf.)/to shelter (perf.)
-ściskać - ściskam (imp.)/to squeeze (imp.)
-ścisnąć - ścisnę (perf.)/to squeeze (perf.)
-sformować - sformuję (perf.)/to form (perf.)
-siedzieć - siedzę (imp.)/to sit (imp.)
-skarżyć się - skarżę się (imp.)/to complain (imp.)
-skłamać - skłamię (perf.)/to lie (perf.)
-skomunikować się - skomunikuję się (perf.)/to communicate (perf.)
-skoncentrować się - skoncentruję się (perf.)/to concentrate (perf.)
-skończyć - skończę (perf.)/to end (perf.)
-skopiować - skopiuję (perf.)/to copy (perf.)
-skręcić - skręcę (perf.)/to curl (perf.)
-słuchać - słucham (imp.)/to listen (imp.)
-słyszeć - słyszę (imp.)/to hear (imp.)
-smakować - smakuję (imp.)/to taste (imp.)
-smażyć - smażę (imp.)/to fry (imp.)
-śmiać się - śmieję się (imp.)/to laugh (imp.)
-śnić - śnię (imp.)/to dream (imp.)
-śnieżyć - śnieżę (imp.)/to snow (imp.)
-spać - śpię (imp.)/to sleep (imp.)
-spadać śnieg - spada śnieg (imp.)/to snow (imp.)
-spakować - spakuję (perf.)/to pack (perf.)
-spalić - spalę (perf.)/to burn (perf.)
-spaść - spadnę (perf.)/to fall (perf.)
-śpiewać - śpiewam (imp.)/to sing (imp.)
-spotkać - spotkam (perf.)/to meet (perf.)
-spotykać - spotykam (imp.)/to meet (imp.)
-spowodować - spowoduję (perf.)/to cause (perf.)
-sprawdzać - sprawdzam (imp.)/to check (imp.)
-sprawdzić - sprawdzę (perf.)/to check (perf.)
-spróbować - spróbuję (perf.)/to try (perf.)
-sprzedać - sprzedam (perf.)/to sell (perf.)
-sprzedawać - sprzedaję (imp.)/to sell (imp.)
-stać - stoję (imp.)/to stand (imp.)
-stać się - stanę się (perf.)/to become (perf.)
-stawiać - stawiam (imp.)/to bet (imp.)
-stracić - stracę (perf.)/to lose (perf.)
-straszyć - straszę (imp.)/to scare (imp.)
-strzelać - strzelam (imp.)/to shoot (imp.)
-strzelić - strzelam (perf.)/to fire (perf.)
-sugerować - sugeruję (imp.)/to suggest (imp.)
-suszyć - suszę (imp.)/to dry (imp.)
-świecić - świecę (imp.)/to shine (imp.)
-sygnalizować - sygnalizuję (imp.)/to signal (imp.)
-szczekać - szczekam (imp.)/to bark (imp.)
-szczotkować - szczotkuję (imp.)/to brush (imp.)
-szukać - szukam (imp.)/to search (imp.)
-tańczyć - tańczę (imp.)/to dance (imp.)
-testować - testuję (imp.)/to test (imp.)
-tonąć - tonę (imp.)/to sink (imp.)
-topić - topię (imp.)/to melt (imp.)
-tracić - tracę (imp.)/to lose (imp.)
-troszczyć się - troszczę się (imp.)/to care (imp.)
-trząść - trzęsę (imp.)/to shake (imp.)
-trzymać - trzymam (imp.)/to hold (imp.)
-twierdzić - twierdzę (imp.)/to claim (imp.)
-ubierać - ubieram (imp.)/to dress (imp.)
-ubrać - ubiorę (perf.)/to dress (perf.)
-uciec - ucieknę (perf.)/to escape (perf.)
-uciekać - uciekam (imp.)/to escape (imp.)
-uczyć - uczę (imp.)/to teach (imp.)
-uczyć się - uczę się (imp.)/to learn (imp.)
-udawać - będę udawać (perf.)/to pretend (perf.)
-udawać - udaję (imp.)/to pretend (imp.)
-udekorować - udekoruję (perf.)/to decorate (perf.)
-uderzać - uderzam (imp.)/to hit (imp.)
-uderzyć - uderzę (perf.)/to beat (perf.)
-udowadniać - udowadniam (imp.)/to prove (imp.)
-udowodnić - udowodnię (perf.)/to prove (perf.)
-ufać - ufam (imp.)/to trust (imp.)
-uformować - uformuję (perf.)/to form (perf.)
-ugotować - ugotuję (perf.)/to boil (perf.)
-ugryźć - ugryzę (perf.)/to bite (perf.)
-ukarać - ukarzę (perf.)/to punish (perf.)
-ukraść - ukradnę (perf.)/to steal (perf.)
-umieć - umiem (imp.)/to know how to (imp.)
-upadać - upadam (imp.)/to fall (imp.)
-upiec - upiekę (perf.)/to bake (perf.)
-upuścić - upuszczę (perf.)/to drop (perf.)
-upuszczać - upuszczam (imp.)/to drop (imp.)
-uratować - uratuję (perf.)/to rescue (perf.)
-usiąść - usiądę (perf.)/to sit (perf.)
-usłyszeć - usłyszę (perf.)/to hear (perf.)
-usmażyć - usmażę (perf.)/to fry (perf.)
-uśmiechać się - uśmiecham się (imp.)/to smile (imp.)
-uśmiechnąć się - uśmiechnę się (perf.)/to smile (perf.)
-usprawiedliwiać - usprawiedliwiam (imp.)/to excuse (imp.)
-usprawiedliwić - usprawiedliwię (perf.)/to excuse (perf.)
-ustawiać - ustawiam (imp.)/to set (imp.)
-ustawić - ustawię (perf.)/to set (perf.)
-uświadamiać - uświadamiam (imp.)/to realise (imp.)
-uświadomić sobie - uświadomię sobie (perf.)/to realise (perf.)
-uszkadzać - uszkadzam (imp.)/to damage (imp.)
-uszkodzić - uszkodzę (perf.)/to damage (perf.)
-utrzymać - utrzymam (perf.)/to hold (perf.)
-utwierdzić - utwierdzę (perf.)/to claim (perf.)
-uwolniać - uwalniam (imp.)/to release (imp.)
-uwolnić - uwolnię (perf.)/to release (perf.)
-uzupełniać - uzupełniam (imp.)/to complete (imp.)
-uzupełnić - uzupełnię (perf.)/to complete (perf.)
-uzyskiwać - uzyskuję (imp.)/to obtain (imp.)
-używać - używam (imp.)/to use (imp.)
-wąchać - wącham (imp.)/to smell (imp.)
-walczyć - walczę (imp.)/to fight (imp.)
-wątpić - wątpię (imp.)/to doubt (imp.)
-wchodzić - wchodzę (imp.)/to enter (imp.)
-wejść - wejdę (perf.)/to enter (perf.)
-wiązać - wiążę (imp.)/to bind (imp.)
-widzieć - widzę (imp.)/to see (imp.)
-wiedzieć - wiem (imp.)/to know (imp.)
-wierzyć - wierzę (imp.)/to believe (imp.)
-wieszać - wieszam (imp.)/to hang (imp.)
-witać - witam (imp.)/to welcome (imp.)
-wkręcać - wkręcam (imp.)/to screw (imp.)
-wkręcić - wkręcę (perf.)/to screw (perf.)
-własność - posiadać (perf.)/to own (perf.)
-wolę - preferować (perf.)/to prefer (perf.)
-wpatrywać się - wpatruję się (imp.)/to stare (imp.)
-wracać - wracam (imp.)/to return (imp.)
-wrócić - wrócę (perf.)/to return (perf.)
-wskazać - wskażę (perf.)/to point (perf.)
-wskazywać - wskazuję (imp.)/to point (imp.)
-wsłuchiwać się - wsłuchuję się (imp.)/to listen attentively (imp.)
-wspierać - wspieram (imp.)/to support (imp.)
-wspomagać - wspomagam (imp.)/to support (imp.)
-wybaczać - wybaczam (imp.)/to forgive (imp.)
-wybaczyć - wybaczę (perf.)/to forgive (perf.)
-wybierać - wybieram (imp.)/to choose (imp.)
-wybrać - wybiorę (perf.)/to choose (perf.)
-wybrać się w podróż - wybiorę się w podróż (perf.)/to travel (perf.)
-wycofać - wycofam (perf.)/to withdraw (perf.)
-wycofywać - wycofuję (imp.)/to withdraw (imp.)
-wyćwiczyć - wyćwiczę (perf.)/to exercise (perf.)
-wyczyścić - wyczyścę (perf.)/to clear (perf.)
-wydać - wydam (perf.)/to spend (perf.)
-wydawać - wydaję (imp.)/to spend (imp.)
-wydrukować - wydrukuję (perf.)/to print (perf.)
-wygrać - wygram (perf.)/to win (perf.)
-wygrywać - wygrywam (imp.)/to win (imp.)
-wyjaśniać - wyjaśniam (imp.)/to explain (imp.)
-wyjaśnić - wyjaśnię (perf.)/to explain (perf.)
-wykonać - wykonam (perf.)/to perform (perf.)
-wykonywać - wykonuję (imp.)/to perform (imp.)
-wykopać - wykopię (perf.)/to dig (perf.)
-wykryć - wykryję (perf.)/to detect (perf.)
-wykrywać - wykrywam (imp.)/to detect (imp.)
-wykształcić - wykształcę (perf.)/to educate (perf.)
-wylać - wyleję (perf.)/to pour (perf.)
-wylać - wylewam (imp.)/to pour (imp.)
-wyleczyć - wyleczę (perf.)/to cure (perf.)
-wypełniać - wypełniam (imp.)/to fill (imp.)
-wypełnić - wypełnię (perf.)/to fill (perf.)
-wypić - wypiję (perf.)/to drink (perf.)
-wyprodukować - wyprodukuję (perf.)/to produce (perf.)
-wyrosnąć - wyrosnę (perf.)/to grow (perf.)
-wysłać - wyślę (perf.)/to send (perf.)
-wysuszyć - wysuszę (perf.)/to dry (perf.)
-wysyłać - wysyłam (imp.)/to send (imp.)
-wyszczotkować - wyszczotkuję (perf.)/to brush (perf.)
-wyznać - wyznaję (perf.)/to confess (perf.)
-wyznawać - wyznaję (imp.)/to confess (imp.)
-wyzwać - wyzwam (perf.)/to challenge (perf.)
-wyzywać - wyzwalam (imp.)/to challenge (imp.)
-wziąć - wezmę (perf.)/to take (perf.)
-wzrosnąć - wzrosnę (perf.)/to rise (perf.)
-zaakceptować - zaakceptuję (perf.)/to accept (perf.)
-zabawić - zabawię (perf.)/to entertain (perf.)
-zabijać - zabijam (imp.)/to murder (imp.)
-zabraniać - zabraniam (imp.)/to forbid (imp.)
-zabronić - zabronię (perf.)/to forbid (perf.)
-zachęcać - zachęcam (imp.)/to encourage (imp.)
-zachęcić - zachęcę (perf.)/to encourage (perf.)
-zachować - zachowam (perf.)/to keep (perf.)
-zaczynać - zaczynam (imp.)/to start (imp.)
-zadać pytanie - zadam pytanie (perf.)/to question (perf.)
-zadowalać - zadowalam (imp.)/to please (imp.)
-zadowolić - zadowolę (perf.)/to please (perf.)
-zadzwonić - zadzwonię (perf.)/to call (perf.)
-zagrać - zagram (perf.)/to play (perf.)
-zakaszleć - zakaszlę (perf.)/to cough (perf.)
-zakichać się - zakicham się (perf.)/to sneeze (perf.)
-zakrzyczeć - zakrzyczę (perf.)/to scream (perf.)
-zakupywać - zakupuję (imp.)/to shop (imp.)
-załatwiać - załatwiam (imp.)/to settle (imp.)
-załatwić - załatwię (perf.)/to deal (perf.)
-zależeć - zależę (imp.)/to depend (imp.)
-żałować - będę żałować (perf.)/to regret (perf.)
-żałować - żałuję (imp.)/to regret (imp.)
-założyć - założę (perf.)/to wear (perf.)
-zamartwić się - zamartwię się (perf.)/to worry (perf.)
-zamarzyć - zamarzę (perf.)/to dream (perf.)
-zamawiać - zamawiam (imp.)/to order (imp.)
-zamknąć - zamknę (perf.)/to close (perf.)
-zamordować - zamorduję (perf.)/to murder (perf.)
-zamówić - zamówię (perf.)/to order (perf.)
-zamrażać - zamrażam (imp.)/to freeze (imp.)
-zamrozić - zamrożę (perf.)/to freeze (perf.)
-zamykać - zamykam (imp.)/to close (imp.)
-zanalizować - zanalizuję (perf.)/to analyze (perf.)
-zapalać - zapalam (imp.)/to light (imp.)
-zapalić - zapalę (perf.)/to light (perf.)
-zapamiętać - zapamiętam (perf.)/to memorise (perf.)
-zapamiętywać - zapamiętuję (imp.)/to memorise (imp.)
-zaparkować - zaparkuję (perf.)/to park (perf.)
-zapasować - zapisuję (perf.)/to fit (perf.)
-zapewniać - zapewniam (imp.)/to provide (imp.)
-zapewnić - zapewnię (perf.)/to provide (perf.)
-zapłacić - zapłacę (perf.)/to pay (perf.)
-zapłakać - zapłaczę (perf.)/to cry (perf.)
-zaplanować - zaplanuję (perf.)/to plan (perf.)
-zapobiec - zapobiegnę (perf.)/to prevent (perf.)
-zapobiegać - zapobiegam (imp.)/to prevent (imp.)
-zapominać - zapominam (imp.)/to forget (imp.)
-zapomnieć - zapomnę (perf.)/to forget (perf.)
-zaprezentować - zaprezentuję (perf.)/to present (perf.)
-zaproponować - zaproponuję (perf.)/to offer (perf.)
-zarabiać - zarabiam (imp.)/to earn (imp.)
-zarezerwować - zarezerwuję (perf.)/to book (perf.)
-zarobić - zarobię (perf.)/to earn (perf.)
-zarumienić się - zarumieniam się (perf.)/to flash (perf.)
-zarządzać - zarządzam (imp.)/to manage (imp.)
-zasadzić - zasadzę (perf.)/to plant (perf.)
-zaskakiwać - zaskakuję (imp.)/to surprise (imp.)
-zaskoczyć - zaskoczę (perf.)/to surprise (perf.)
-zasłużyć - zasłużę (perf.)/to deserve (perf.)
-zaśmiać się - zaśmieję się (perf.)/to laugh (perf.)
-zasnąć - zasnę (perf.)/to sleep (perf.)
-zaśpiewać - zaśpiewam (perf.)/to sing (perf.)
-zastanawiać się - zastanawiam się (imp.)/to wonder (imp.)
-zastąpić - zastąpię (perf.)/to replace (perf.)
-zastępować - zastępuję (imp.)/to replace (imp.)
-zastrzelić - zastrzelę (perf.)/to shoot (perf.)
-zaświecić - zaświecę (perf.)/to shine (perf.)
-zasygnalizować - zasygnalizuję (perf.)/to signal (perf.)
-zatonąć - zatonę (perf.)/to sink (perf.)
-zatrudniać - zatrudniam (imp.)/to employ (imp.)
-zatrudnić - zatrudnię (perf.)/to employ (perf.)
-zatrzymać się - zatrzymam się (perf.)/to pause (perf.)
-zatrzymywać się - zatrzymuję się (imp.)/to pause (imp.)
-zaufać - zaufam (perf.)/to trust (perf.)
-zauważać - zauważam (imp.)/to note (imp.)
-zauważyć - zauważę (perf.)/to note (perf.)
-zawdzięczać - zawdzięczam (perf.)/to owe (perf.)
-zawiązać - zawiążę (perf.)/to bind (perf.)
-zawieść - zawiodę (perf.)/to fail (perf.)
-zawodzić - zawodzę (imp.)/to upset (imp.)
-zawstydzać - zawstydzam (imp.)/to embarrass (imp.)
-zawstydzić - zawstydzę (perf.)/to embarrass (perf.)
-zbierać - zbieram (imp.)/to collect (imp.)
-zbudować - zbuduję (perf.)/to build (perf.)
-zdecydować - zdecyduję (perf.)/to decide (perf.)
-zdobyć - zdobędę (perf.)/to obtain (perf.)
-zebrać - zebiorę (perf.)/to collect (perf.)
-żeglować - żegluję (imp.)/to sail (imp.)
-zezwolić - zezwalam (perf.)/to allow (perf.)
-zgadzać się - zgadzam się (imp.)/to agree (imp.)
-zgiąć - zgnę (perf.)/to bend (perf.)
-zgłaszać - zgłaszam (imp.)/to request (imp.)
-zgodzić się - zgodzę się (perf.)/to agree (perf.)
-zistnieć - zistnieję (perf.)/to exist (perf.)
-zjeść - zjem (perf.)/to eat (perf.)
-złamać - złamię (perf.)/to break (perf.)
-złapać - złapię (perf.)/to catch (perf.)
-zmieniać - zmieniam (imp.)/to change (imp.)
-zmieniać się - zmieniam się (imp.)/to change (imp.)
-zmienić - zmienię (perf.)/to change (perf.)
-zmierzyć czas - zmierzę czas (perf.)/to time (perf.)
-zmieszać - zmieszam (perf.)/to mix (perf.)
-znać - znam (imp.)/to know (imp.)
-znaczyć - znaczę (imp.)/to mean (imp.)
-znajdować - znajduję (imp.)/to find (imp.)
-znaleźć - znajdę (perf.)/to find (perf.)
-znaleźć - znajduję (imp.)/to find (imp.)
-znikać - znikam (imp.)/to disappear (imp.)
-zniknąć - zniknę (perf.)/to disappear (perf.)
-zniszczyć - zniszczę (perf.)/to destroy (perf.)
-zobaczyć - zobaczę (perf.)/to observe (perf.)
-zostać - zostaję (imp.)/to stay (imp.)
-zostać - zostanę (perf.)/to stay (perf.)
-zranić - zranię (perf.)/to hurt (perf.)
-zrazić - zrażę (perf.)/to offend (perf.)
-zredukować - zredukuję (perf.)/to reduce (perf.)
-zrezygnować - rezygnuję (imp.)/to quit (imp.)
-zrezygnować - zrezygnuję (perf.)/to quit (perf.)
-zrobić - zrobię (perf.)/to do (perf.)
-zrozumieć - zrozumiem (perf.)/to understand (perf.)
-zrujnować - zrujnuję (perf.)/to ruin (perf.)
-zwątpić - zwątpię (perf.)/to doubt (perf.)
-zwiedzać - zwiedzam (imp.)/to explore (imp.)
-żyć - żyję (imp.)/to live (imp.)
-życzyć - życzę (imp.)/to wish (imp.)
+akceptować-akceptuję (imp)/to accept
+analizować-analizuję (imp)/to analyze
+bać się-boję się (imp)/to fear
+bawić-bawię (imp)/to entertain
+bić-biję (imp)/to beat
+biec-biegnę (imp)/to run
+błagać-błagam (imp)/to beg
+boleć-bolię (imp)/to hurt
+brać-biorę (imp)/to take
+brać ślub-biorę ślub (imp)/to marry
+budować-buduję (imp)/to build
+budzić-budzę (imp)/to wake
+budzić się-budzę się (imp)/to awake
+być-jestem (imp)/to be
+być winnym-jestem winny (imp)/to owe
+chcieć-chcę (imp)/to want
+chodzić-chodzę (freq)/to walk
+chować-chowam (imp)/to hide
+chronić-chronię (imp)/to protect
+ciąć-tnę (imp)/to cut
+ciągnąć-ciągnę (imp)/to drag
+cierpieć-cierpię (imp)/to suffer
+cieszyć się-cieszę się (imp)/to enjoy
+ćwiczyć-będę ćwiczyć (perf)/to practice
+ćwiczyć-ćwiczę (imp)/to exercise
+czuć-czuję (imp)/to feel
+czyścić-czyścę (imp)/to clean
+czytać-czytam (imp)/to read
+dać-dam (perf)/to give
+dawać-daję (imp)/to give
+decydować-decyduję (imp)/to decide
+dekorować-dekoruję (imp)/to decorate
+denerwować-denerwuję (imp)/to annoy
+deservować-zasługuję (imp)/to deserve
+dmuchać-dmucham (imp)/to blow
+dmuchnąć-dmuchnę (perf)/to blow
+dodać-dodam (perf)/to add
+dodawać-dodaję (imp)/to add
+dogonić-dogonię (perf)/to chase
+dopasować-dopasowuję (imp)/to match
+dopasować-dopasuję (perf)/to fit
+dostarczać-dostarczam (imp)/to deliver
+dostarczyć-dostarczę (perf)/to deliver
+dostawać-dostaję (imp)/to get
+dostrzegać-dostrzegam (imp)/to spot
+dotknąć-dotknę (perf)/to touch, to concern
+dotyczyć-dotyczę (imp)/to concern
+dotykać-dotykam (imp)/to touch
+drapać-drapię (imp)/to scratch
+drukować-drukuję (imp)/to print
+działać-działam (imp)/to work
+dziękować-dziękuję (imp)/to thank
+dzielić-dzielę (imp)/to divide
+dzwonić-dzwonię (imp)/to call
+eksplodować-eksploduję (imp)/to explode
+formować-formuję (imp)/to form
+gapić się-gapimy się (imp)/to stare
+ginać-ginę (imp)/to bend
+golić się-golię się (imp)/to shave
+gonić-gonię (imp)/to chase
+gotować-gotuję (imp)/to cook
+grać-gram (imp)/to play
+gryźć-gryzę (imp)/to bite
+handlować-handluję (imp)/to deal
+iść-idę (imp)/to go
+istnieć-istnieję (imp)/to exist
+jeść-jem (imp)/to eat
+jeździć-jeżdżę (imp)/to ride, to drive
+karać-karzę (imp)/to punish
+karmić-karmię (imp)/to feed
+kaszleć-kaszlę (imp)/to cough
+kibicować-kibicuję (imp)/to cheer
+kichać-kicham (imp)/to sneeze
+kłamać-kłamię (imp)/to lie
+kłaść-kładę (imp)/to lay, to put
+klaskać-klaskam (imp)/to clap
+kłopotać się-kłopoczę się (imp)/to worry
+kochać-kocham (imp)/to love
+komunikować się-komunikuję się (imp)/to communicate
+koncentrować się-koncentruję się (imp)/to concentrate
+kończyć-kończę (imp)/to end
+kontynuować-kontynuuję (imp)/to continue
+kopać-kopię (imp)/to dig
+kopiować-kopiuję (imp)/to copy
+kosztować-kosztuję (imp)/to cost
+kosztować-kosztuję (perf)/to cost
+kraść-kradnę (imp)/to steal
+kręcić-kręcę (imp)/to curl
+kręcić film-kręcę film (imp)/to film
+krwawić-krwawię (imp)/to bleed
+krzyczeć-krzyczę (imp)/to scream
+kształcić-kształcę (imp)/to educate
+kupić-kupię (perf)/to buy
+kupować-kupuję (imp)/to buy
+kurzyć-kurzę (imp)/to dust
+lać-leję (imp)/to pour
+łączyć-łączę (imp)/to connect
+ładować-ładuję (imp)/to charge
+łamać-łamię (imp)/to break
+łapać-łapię (imp)/to catch
+latać-latam (imp)/to fly
+leczyć-leczę (imp)/to cure
+liczyć-liczę (imp)/to count
+literować-literuję (imp)/to spell
+lubić-lubię (imp)/to like
+malować-maluję (imp)/to paint
+martwić się-martwię się (imp)/to worry
+mieć-będę miał (perf)/to have
+mieć-mam (imp)/to have
+mierzyć czas-mierzę czas (imp)/to time
+mieszać-mieszam (imp)/to mix
+mieszkać-mieszkam (imp)/to live
+migać-migam (imp)/to flash
+modlić się-modlę się (imp)/to pray
+mówić-mówię (imp)/to speak
+mrugać-mrugam (imp)/to blink
+mrugnąć-mrugnę (perf)/to wink
+myć-myję (imp)/to wash
+mylić-mylę (imp)/to confuse
+myśleć-myślę (imp)/to think
+nacieszyć się-nacieszę się (perf)/to enjoy
+nadać-naciśnię (perf)/to press
+nagrać-nagram (perf)/to record
+nagrać film-nagram film (perf)/to film
+nagrywać-nagrywam (imp)/to record
+nakarmić-nakarmię (perf)/to feed
+naładować-naładuję (perf)/to charge
+należeć-należę (imp)/to belong
+napompować-napompuję (perf)/to pump
+naprawiać-naprawiam (imp)/to repair
+naprawić-naprawię (perf)/to repair
+naprogramować-naprogramuję (perf)/to program
+narysować-narysuję (perf)/to draw
+nastąpić-nastąpię (perf)/to occur
+następować-następuję (imp)/to occur
+nauczyć-nauczę (perf)/to teach
+nauczyć się-nauczę się (perf)/to learn
+nazwać-nazwę (perf)/to name
+nazywać-nazywam (imp)/to name
+nie lubić-nie lubię (imp)/to dislike
+nie polubić-nie polubię (perf)/to dislike
+nie udać się-nie udaje się (imp)/to fail
+nie zgadzać się-nie zgadzam się (imp)/to disagree
+nie zgodzić się-nie zgodzę się (perf)/to disagree
+nieść-niosę (imp)/to carry sth habitually
+niszczyć-niszczę (imp)/to ruin, to destroy
+nosić-noszę (imp)/to wear
+obiecać-obiecuję (perf)/to promise
+obiecywać-obiecuję (imp)/to promise
+obliczać-obliczam (imp)/to calculate
+obliczyć-obliczę (perf)/to calculate
+obrażać-obrażam (imp)/to offend
+obserwować-obserwuję (imp)/to observe
+obsługiwać-obsługuję (imp)/to serve
+obsłużyć-obsłużę (perf)/to serve
+obudzić-obudzę (perf)/to wake
+obudzić się-obudzę się (perf)/to awake
+ochronić-ochronię (perf)/to protect
+oczekiwać-oczekuję (imp)/to expect
+oczyścić-oczyścę (perf)/to clean
+odbić się-odbijam się (imp)/to bounce
+odbierać-odbieram (imp)/to receive
+odbijać się-odbijam się (imp)/to bounce
+oddychać-oddycham (imp)/to breathe
+odkryć-odkryję (perf)/to discover
+odkrywać-odkrywam (imp)/to discover
+odkurzyć-odkurzę (perf)/to dust
+odmawiać-odmawiam (imp)/to refuse
+odmówić-odmówię (perf)/to refuse
+odpoczywać-odpoczywam (imp)/to rest
+odpowiadać-odpowiadam (imp)/to reply
+odpowiedzieć-odpowiem (perf)/to reply
+odprężać się-odprężam się (imp)/to relax
+odprężyć się-odprężę się (perf)/to relax
+odrzucać-odrzucam (imp)/to reject
+odrzucić-odrzucę (perf)/to reject
+odwiedzać-odwiedzam (imp)/to visit
+odwiedzić-odwiedzę (perf)/to visit
+odzwierciedlać-odzwierciedlam (imp)/to reflect
+odzwierciedlić-odzwierciedlę (perf)/to reflect
+oferować-oferuję (imp)/to offer
+ogłaszać-ogłaszam (imp)/to announce
+ogolić się-ogolę się (perf)/to shave
+oklasknąć-oklasknę (perf)/to cheer
+omijać-omijam (imp)/to skip
+opisać-opiszę (perf)/to describe
+opisywać-opisuję (imp)/to describe
+opłukać-opłuczę (perf)/to rinse
+opowiadać-opowiadam (imp)/to tell
+opóźniać-opóźniam (imp)/to delay
+opóźnić-opóźnię (perf)/to delay
+opróżniać-opróżniam (imp)/to empty
+opróżnić-opróżnię (perf)/to empty
+opuścić-opuszczę (perf)/to leave
+opuszczać-opuszczam (imp)/to abandon
+osiągać-osiągam (imp)/to reach
+osiągać sukces-osiągam sukces (imp)/to succeed
+osiągnąć-osiągnę (perf)/to reach
+osiągnąć sukces-osiągnę sukces (perf)/to succeed
+oszukać-oszukam (perf)/to cheat
+oszukiwać-oszukuję (imp)/to cheat
+otrzymać-otrzymam (perf)/to receive
+otrzymywać-otrzymuję (imp)/to receive
+otwierać-otwieram (imp)/to open
+otworzyć-otworzę (perf)/to open
+oznaczać-oznaczam (imp)/to mean
+oznaczać-oznaczyć (perf)/to mean
+padać-pada (imp)/to rain
+pakować-pakuję (imp)/to pack
+palić-palę (imp)/to smoke, to burn
+pamiętać-pamiętam (imp)/to remember
+parkować-parkuję (imp)/to park
+pasować-pasuję (imp)/to fit
+patrzeć-patrzę (imp)/to look
+pchać-pcham (imp)/to push
+pękać-pękam (imp)/to burst, to pop
+pęknąć-pęknę (perf)/to burst
+pęknąć-pęknie (perf)/to pop
+pić-piję (imp)/to drink
+piec-piekę (imp)/to bake
+pisać-piszę (imp)/to write
+płacić-płacę (imp)/to pay
+płakać-płaczę (imp)/to cry
+planować-planuję (imp)/to plan
+pływać-pływam (imp)/to swim
+pobiec-pobiegnę (perf)/to run
+pobudzać-pobudzam (imp)/to excite
+pobudzić-pobudzę (perf)/to excite
+pociągnąć-pociągnę (perf)/to drag
+poczuć-poczuję (perf)/to feel
+podjechać-podjadę (perf)/to drive
+podłączać-podłączam (imp)/to plug
+podłączyć-podłączę (perf)/to plug
+podnieść-podniosę (perf)/to raise
+podnosić-podnoszę (imp)/to raise
+podpisać-podpiszę (perf)/to sign
+podpisywać-podpisuję (imp)/to sign
+podrapać-podrapię (perf)/to scratch
+podróżować-podróżuję (imp)/to travel
+podziękować-podziękuję (perf)/to thank
+podzielić-podzielę (perf)/to divide
+podziwiać-podziwiam (imp)/to admire
+podziwić-podziwiam (imp)/to admire
+pojechać-pojadę (perf)/to ride
+pójść-pójdę (perf)/to go
+pokazać-pokażę (perf)/to show
+pokazywać-pokazuję (imp)/to show
+pokochać-pokocham (perf)/to love
+pokonać-pokonam (perf)/to fight
+pokonywać-pokonuję (imp)/to overcome
+pokrwawić-pokrwawię (perf)/to bleed
+połączyć-połączę (perf)/to connect
+polecieć-polecę (perf)/to fly
+polegać-będę polegać (perf)/to rely
+polegać-polegam (imp)/to rely
+policzyć-policzę (perf)/to count
+położyć-położę (perf)/to lay
+polubić-polubię (perf)/to like
+pomagać-pomagam (imp)/to help
+pomalować-pomaluję (perf)/to paint
+pomieszać-pomieszam (perf)/to confuse
+pominąć-pominię (perf)/to skip
+pomodlić się-pomodlę się (perf)/to pray
+pompować-pompuję (imp)/to pump
+pomylić się-mylę się (imp)/to mistake
+pomylić się-pomylię się (perf)/to mistake
+pomyśleć-pomyślę (perf)/to think
+popadać-będę padać (perf)/to rain
+popatrzeć-popatrzę (perf)/to look
+popchnąć-popchnę (perf)/to push
+popłynąć-popłynę (perf)/to sail
+poprawiać-poprawiam (imp)/to correct
+poprawić-poprawię (perf)/to correct
+poprowadzić-poprowadzę (perf)/to lead
+poradzić-poradzę (perf)/to advise
+porównać-porównam (perf)/to compare
+porównywać-porównuję (imp)/to compare
+porozmawiać-porozmawiam (perf)/to talk
+poruszać się-poruszam się (imp)/to move
+posiadać-posiadam (imp)/to possess
+posiąść-posiądę (perf)/to possess
+poskarżyć się-poskarżę się (perf)/to complain
+poślubić-poślubiam (imp)/to marry
+poślubić-poślubię (perf)/to marry
+posłuchać-posłucham (perf)/to listen
+postać-stanę (perf)/to stand
+postawić-postawię (perf)/to bet
+potańczyć-potańczę (perf)/to dance
+potknąć się-potknę się (perf)/to trip
+potrząsnąć-potrząsnę (perf)/to shake
+potrzebować-będę potrzebować (perf)/to need
+potrzebować-potrzebuję (imp)/to need
+potykać się-potykam się (imp)/to trip
+poukładać-poukładam (perf)/to manage
+powiedzieć-powiem (perf)/to speak
+powiesić-powieszę (perf)/to hang
+powitać-powitam (perf)/to welcome
+powodować-powoduję (imp)/to cause
+powtarzać-powtarzam (imp)/to repeat
+powtórzyć-powtórzę (perf)/to repeat
+poznać-poznam (perf)/to meet
+poznawać-poznaję (imp)/to get to know
+pozostać-pozostanę (perf)/to remain
+pozostawać-pozostaję (imp)/to remain
+pozwalać-pozwalam (imp)/to allow
+pozwolić-pozwolę (perf)/to let
+pożyczać-pożyczam (imp)/to borrow
+pożyczyć-pożyczę (perf)/to borrow
+pracować-będę pracować (perf)/to work
+pracować-pracuję (imp)/to work
+preferować-preferuję (imp)/to prefer
+prezentować-prezentuję (imp)/to present
+próbować-próbuję (imp)/to try
+produkować-produkuje (imp)/to produce
+programować-programuję (imp)/to program
+prowadzić-poprowadzę (perf)/to manage
+prowadzić-prowadzę (imp)/to lead
+przechodzić-przechodzę (imp)/to pass
+przechodzić na emeryturę-przechodzę na emeryturę (imp)/to retire
+przeciąć-przetnę (perf)/to cut
+przeczytać-przeczytam (perf)/to read
+przejść-przejdę (perf)/to pass
+przejść na emeryturę-przejdę na emeryturę (perf)/to retire
+przekraczać-przekraczam (imp)/to cross
+przekroczyć-przekroczę (perf)/to cross
+przełączać-przełączam (imp)/to switch
+przełączyć-przełączę (perf)/to switch
+przeliterować-przeliteruję (perf)/to spell
+przenieść się-przeniosę się (perf)/to move
+przepraszać-przepraszam (imp)/to apologize
+przeprosić-przepraszam (imp)/to apologize
+przesłuchać-przesłucham (perf)/to listen
+przestraszyć-przestraszę (perf)/to scare
+przetestować-przetestuję (perf)/to test
+przeżyć-przeżyję (perf)/to live
+przychodzić-przychodzę (imp)/to come
+przygotować-przygotuję (perf)/to prepare
+przygotowywać-przygotowuję (imp)/to prepare
+przyjść-przyjdę (perf)/to come
+przykryć-przykryję (perf)/to cover
+przykrywać-przykrywam (imp)/to cover
+przynieść-przyniosę (perf)/to bring
+przynosić-przynoszę (imp)/to bring
+przypominać-przypominam (imp)/to remind
+przypuszczać-przypuszczam (imp)/to suppose
+przysiąc-przysięgnę (perf)/to swear
+przysięgać-przysięgam (imp)/to swear
+przyśnić się-przyśnię się (perf)/to dream
+przystawać-przystaję (imp)/to fit
+przyznać-przyznaję (imp)/to admit
+przyznać się-przyznaję się (perf)/to admit
+psikać-psikam (imp)/to spray
+psiknąć-psiknę (perf)/to spray
+pytać-pytam (imp)/to ask
+radzić-radzę (imp)/to advise
+raportować-raportuję (imp)/to report
+ratować-ratuję (imp)/to save, to rescue
+redukować-redukuję (imp)/to reduce
+rezerwować-rezerwuję (imp)/to book
+robić-robię (imp)/to do
+robić zakupy-robię zakupy (imp)/to shop
+rosnąć-rosnę (imp)/to grow
+rozdzielać-rozdzielam (imp)/to separate
+rozdzielić-rozdzielę (perf)/to separate
+rozlać-rozleję (perf)/to spill
+rozlewać-rozlewam (imp)/to spill
+rozmawiać-rozmawiam (imp)/to talk
+rozpalić-rozpalę (perf)/to fire
+rozpocząć-rozpocznę (perf)/to begin
+rozpoczynać-rozpoczynam (imp)/to start
+rozpoznać-rozpoznam (perf)/to recognise
+rozpoznawać-rozpoznaję (imp)/to recognise
+rozprzestrzeniać się-rozprzestrzeniam się (imp)/to spread
+rozprzestrzenić się-rozprzestrzenię się (perf)/to spread
+rozrywkać-rozrywam (imp)/to entertain
+rozśmieszyć-rozśmieszę (perf)/to laugh
+rozświetlić-rozświetlę (perf)/to flash
+rozszerzać-rozszerzam (imp)/to expand
+rozszerzyć-rozszerzę (perf)/to expand
+roztopić-roztopię (perf)/to melt
+rozumieć-rozumiem (imp)/to understand
+rozważać-rozważam (imp)/to consider
+rozważyć-rozważę (perf)/to consider
+rozwiązywać-rozwiązuję (imp)/to solve
+rozwijać-rozwijam (imp)/to develop
+rozwinąć-rozwinę (perf)/to develop
+rumienić się-rumienię się (imp)/to blush
+rysować-rysuję (imp)/to draw
+rywalizować-rywalizuję (imp)/to compete
+rzucać-rzucam (imp)/to throw
+rzucić-rzucę (perf)/to throw
+sadzić-sadzę (imp)/to plant
+schować-schowam (perf)/to hide
+schronić-schronię (perf)/to shelter
+schronić się-schronię się (perf)/to shelter
+ściskać-ściskam (imp)/to squeeze
+ścisnąć-ścisnę (perf)/to squeeze
+sformować-sformuję (perf)/to form
+siedzieć-siedzę (imp)/to sit
+skarżyć się-skarżę się (imp)/to complain
+skłamać-skłamię (perf)/to lie
+skomunikować się-skomunikuję się (perf)/to communicate
+skoncentrować się-skoncentruję się (perf)/to concentrate
+skończyć-skończę (perf)/to end
+skopiować-skopiuję (perf)/to copy
+skręcić-skręcę (perf)/to curl
+słuchać-słucham (imp)/to listen
+słyszeć-słyszę (imp)/to hear
+smakować-smakuję (imp)/to taste
+smażyć-smażę (imp)/to fry
+śmiać się-śmieję się (imp)/to laugh
+śnić-śnię (imp)/to dream
+śnieżyć-śnieżę (imp)/to snow
+spać-śpię (imp)/to sleep
+spadać śnieg-spada śnieg (imp)/to snow
+spakować-spakuję (perf)/to pack
+spalić-spalę (perf)/to burn
+spaść-spadnę (perf)/to fall
+śpiewać-śpiewam (imp)/to sing
+spotkać-spotkam (perf)/to meet
+spotykać-spotykam (imp)/to meet
+spowodować-spowoduję (perf)/to cause
+sprawdzać-sprawdzam (imp)/to check
+sprawdzić-sprawdzę (perf)/to check
+spróbować-spróbuję (perf)/to try
+sprzedać-sprzedam (perf)/to sell
+sprzedawać-sprzedaję (imp)/to sell
+stać-stoję (imp)/to stand
+stać się-stanę się (perf)/to become
+stawiać-stawiam (imp)/to bet
+stracić-stracę (perf)/to lose
+straszyć-straszę (imp)/to scare
+strzelać-strzelam (imp)/to shoot
+strzelić-strzelam (perf)/to fire
+sugerować-sugeruję (imp)/to suggest
+suszyć-suszę (imp)/to dry
+świecić-świecę (imp)/to shine
+sygnalizować-sygnalizuję (imp)/to signal
+szczekać-szczekam (imp)/to bark
+szczotkować-szczotkuję (imp)/to brush
+szukać-szukam (imp)/to search
+tańczyć-tańczę (imp)/to dance
+testować-testuję (imp)/to test
+tonąć-tonę (imp)/to sink
+topić-topię (imp)/to melt
+tracić-tracę (imp)/to lose
+troszczyć się-troszczę się (imp)/to care
+trząść-trzęsę (imp)/to shake
+trzymać-trzymam (imp)/to hold
+twierdzić-twierdzę (imp)/to claim
+ubierać-ubieram (imp)/to dress
+ubrać-ubiorę (perf)/to dress
+uciec-ucieknę (perf)/to escape
+uciekać-uciekam (imp)/to escape
+uczyć-uczę (imp)/to teach
+uczyć się-uczę się (imp)/to learn
+udawać-będę udawać (perf)/to pretend
+udawać-udaję (imp)/to pretend
+udekorować-udekoruję (perf)/to decorate
+uderzać-uderzam (imp)/to hit
+uderzyć-uderzę (perf)/to beat
+udowadniać-udowadniam (imp)/to prove
+udowodnić-udowodnię (perf)/to prove
+ufać-ufam (imp)/to trust
+uformować-uformuję (perf)/to form
+ugotować-ugotuję (perf)/to boil
+ugryźć-ugryzę (perf)/to bite
+ukarać-ukarzę (perf)/to punish
+ukraść-ukradnę (perf)/to steal
+umieć-umiem (imp)/to know how to
+upadać-upadam (imp)/to fall
+upiec-upiekę (perf)/to bake
+upuścić-upuszczę (perf)/to drop
+upuszczać-upuszczam (imp)/to drop
+uratować-uratuję (perf)/to rescue
+usiąść-usiądę (perf)/to sit
+usłyszeć-usłyszę (perf)/to hear
+usmażyć-usmażę (perf)/to fry
+uśmiechać się-uśmiecham się (imp)/to smile
+uśmiechnąć się-uśmiechnę się (perf)/to smile
+usprawiedliwiać-usprawiedliwiam (imp)/to excuse
+usprawiedliwić-usprawiedliwię (perf)/to excuse
+ustawiać-ustawiam (imp)/to set
+ustawić-ustawię (perf)/to set
+uświadamiać-uświadamiam (imp)/to realise
+uświadomić sobie-uświadomię sobie (perf)/to realise
+uszkadzać-uszkadzam (imp)/to damage
+uszkodzić-uszkodzę (perf)/to damage
+utrzymać-utrzymam (perf)/to hold
+utwierdzić-utwierdzę (perf)/to claim
+uwolniać-uwalniam (imp)/to release
+uwolnić-uwolnię (perf)/to release
+uzupełniać-uzupełniam (imp)/to complete
+uzupełnić-uzupełnię (perf)/to complete
+uzyskiwać-uzyskuję (imp)/to obtain
+używać-używam (imp)/to use
+wąchać-wącham (imp)/to smell
+walczyć-walczę (imp)/to fight
+wątpić-wątpię (imp)/to doubt
+wchodzić-wchodzę (imp)/to enter
+wejść-wejdę (perf)/to enter
+wiązać-wiążę (imp)/to bind
+widzieć-widzę (imp)/to see
+wiedzieć-wiem (imp)/to know
+wierzyć-wierzę (imp)/to believe
+wieszać-wieszam (imp)/to hang
+witać-witam (imp)/to welcome
+wkręcać-wkręcam (imp)/to screw
+wkręcić-wkręcę (perf)/to screw
+własność-posiadać (perf)/to own
+wolę-preferować (perf)/to prefer
+wpatrywać się-wpatruję się (imp)/to stare
+wracać-wracam (imp)/to return
+wrócić-wrócę (perf)/to return
+wskazać-wskażę (perf)/to point
+wskazywać-wskazuję (imp)/to point
+wsłuchiwać się-wsłuchuję się (imp)/to listen attentively
+wspierać-wspieram (imp)/to support
+wspomagać-wspomagam (imp)/to support
+wybaczać-wybaczam (imp)/to forgive
+wybaczyć-wybaczę (perf)/to forgive
+wybierać-wybieram (imp)/to choose
+wybrać-wybiorę (perf)/to choose
+wybrać się w podróż-wybiorę się w podróż (perf)/to travel
+wycofać-wycofam (perf)/to withdraw
+wycofywać-wycofuję (imp)/to withdraw
+wyćwiczyć-wyćwiczę (perf)/to exercise
+wyczyścić-wyczyścę (perf)/to clear
+wydać-wydam (perf)/to spend
+wydawać-wydaję (imp)/to spend
+wydrukować-wydrukuję (perf)/to print
+wygrać-wygram (perf)/to win
+wygrywać-wygrywam (imp)/to win
+wyjaśniać-wyjaśniam (imp)/to explain
+wyjaśnić-wyjaśnię (perf)/to explain
+wykonać-wykonam (perf)/to perform
+wykonywać-wykonuję (imp)/to perform
+wykopać-wykopię (perf)/to dig
+wykryć-wykryję (perf)/to detect
+wykrywać-wykrywam (imp)/to detect
+wykształcić-wykształcę (perf)/to educate
+wylać-wyleję (perf)/to pour
+wylać-wylewam (imp)/to pour
+wyleczyć-wyleczę (perf)/to cure
+wypełniać-wypełniam (imp)/to fill
+wypełnić-wypełnię (perf)/to fill
+wypić-wypiję (perf)/to drink
+wyprodukować-wyprodukuję (perf)/to produce
+wyrosnąć-wyrosnę (perf)/to grow
+wysłać-wyślę (perf)/to send
+wysuszyć-wysuszę (perf)/to dry
+wysyłać-wysyłam (imp)/to send
+wyszczotkować-wyszczotkuję (perf)/to brush
+wyznać-wyznaję (perf)/to confess
+wyznawać-wyznaję (imp)/to confess
+wyzwać-wyzwam (perf)/to challenge
+wyzywać-wyzwalam (imp)/to challenge
+wziąć-wezmę (perf)/to take
+wzrosnąć-wzrosnę (perf)/to rise
+zaakceptować-zaakceptuję (perf)/to accept
+zabawić-zabawię (perf)/to entertain
+zabijać-zabijam (imp)/to murder
+zabraniać-zabraniam (imp)/to forbid
+zabronić-zabronię (perf)/to forbid
+zachęcać-zachęcam (imp)/to encourage
+zachęcić-zachęcę (perf)/to encourage
+zachować-zachowam (perf)/to keep
+zaczynać-zaczynam (imp)/to start
+zadać pytanie-zadam pytanie (perf)/to question
+zadowalać-zadowalam (imp)/to please
+zadowolić-zadowolę (perf)/to please
+zadzwonić-zadzwonię (perf)/to call
+zagrać-zagram (perf)/to play
+zakaszleć-zakaszlę (perf)/to cough
+zakichać się-zakicham się (perf)/to sneeze
+zakrzyczeć-zakrzyczę (perf)/to scream
+zakupywać-zakupuję (imp)/to shop
+załatwiać-załatwiam (imp)/to settle
+załatwić-załatwię (perf)/to deal
+zależeć-zależę (imp)/to depend
+żałować-będę żałować (perf)/to regret
+żałować-żałuję (imp)/to regret
+założyć-założę (perf)/to wear
+zamartwić się-zamartwię się (perf)/to worry
+zamarzyć-zamarzę (perf)/to dream
+zamawiać-zamawiam (imp)/to order
+zamknąć-zamknę (perf)/to close
+zamordować-zamorduję (perf)/to murder
+zamówić-zamówię (perf)/to order
+zamrażać-zamrażam (imp)/to freeze
+zamrozić-zamrożę (perf)/to freeze
+zamykać-zamykam (imp)/to close
+zanalizować-zanalizuję (perf)/to analyze
+zapalać-zapalam (imp)/to light
+zapalić-zapalę (perf)/to light
+zapamiętać-zapamiętam (perf)/to memorise
+zapamiętywać-zapamiętuję (imp)/to memorise
+zaparkować-zaparkuję (perf)/to park
+zapasować-zapisuję (perf)/to fit
+zapewniać-zapewniam (imp)/to provide
+zapewnić-zapewnię (perf)/to provide
+zapłacić-zapłacę (perf)/to pay
+zapłakać-zapłaczę (perf)/to cry
+zaplanować-zaplanuję (perf)/to plan
+zapobiec-zapobiegnę (perf)/to prevent
+zapobiegać-zapobiegam (imp)/to prevent
+zapominać-zapominam (imp)/to forget
+zapomnieć-zapomnę (perf)/to forget
+zaprezentować-zaprezentuję (perf)/to present
+zaproponować-zaproponuję (perf)/to offer
+zarabiać-zarabiam (imp)/to earn
+zarezerwować-zarezerwuję (perf)/to book
+zarobić-zarobię (perf)/to earn
+zarumienić się-zarumieniam się (perf)/to flash
+zarządzać-zarządzam (imp)/to manage
+zasadzić-zasadzę (perf)/to plant
+zaskakiwać-zaskakuję (imp)/to surprise
+zaskoczyć-zaskoczę (perf)/to surprise
+zasłużyć-zasłużę (perf)/to deserve
+zaśmiać się-zaśmieję się (perf)/to laugh
+zasnąć-zasnę (perf)/to sleep
+zaśpiewać-zaśpiewam (perf)/to sing
+zastanawiać się-zastanawiam się (imp)/to wonder
+zastąpić-zastąpię (perf)/to replace
+zastępować-zastępuję (imp)/to replace
+zastrzelić-zastrzelę (perf)/to shoot
+zaświecić-zaświecę (perf)/to shine
+zasygnalizować-zasygnalizuję (perf)/to signal
+zatonąć-zatonę (perf)/to sink
+zatrudniać-zatrudniam (imp)/to employ
+zatrudnić-zatrudnię (perf)/to employ
+zatrzymać się-zatrzymam się (perf)/to pause
+zatrzymywać się-zatrzymuję się (imp)/to pause
+zaufać-zaufam (perf)/to trust
+zauważać-zauważam (imp)/to note
+zauważyć-zauważę (perf)/to note
+zawdzięczać-zawdzięczam (perf)/to owe
+zawiązać-zawiążę (perf)/to bind
+zawieść-zawiodę (perf)/to fail
+zawodzić-zawodzę (imp)/to upset
+zawstydzać-zawstydzam (imp)/to embarrass
+zawstydzić-zawstydzę (perf)/to embarrass
+zbierać-zbieram (imp)/to collect
+zbudować-zbuduję (perf)/to build
+zdecydować-zdecyduję (perf)/to decide
+zdobyć-zdobędę (perf)/to obtain
+zebrać-zebiorę (perf)/to collect
+żeglować-żegluję (imp)/to sail
+zezwolić-zezwalam (perf)/to allow
+zgadzać się-zgadzam się (imp)/to agree
+zgiąć-zgnę (perf)/to bend
+zgłaszać-zgłaszam (imp)/to request
+zgodzić się-zgodzę się (perf)/to agree
+zistnieć-zistnieję (perf)/to exist
+zjeść-zjem (perf)/to eat
+złamać-złamię (perf)/to break
+złapać-złapię (perf)/to catch
+zmieniać-zmieniam (imp)/to change
+zmieniać się-zmieniam się (imp)/to change
+zmienić-zmienię (perf)/to change
+zmierzyć czas-zmierzę czas (perf)/to time
+zmieszać-zmieszam (perf)/to mix
+znać-znam (imp)/to know
+znaczyć-znaczę (imp)/to mean
+znajdować-znajduję (imp)/to find
+znaleźć-znajdę (perf)/to find
+znaleźć-znajduję (imp)/to find
+znikać-znikam (imp)/to disappear
+zniknąć-zniknę (perf)/to disappear
+zniszczyć-zniszczę (perf)/to destroy
+zobaczyć-zobaczę (perf)/to observe
+zostać-zostaję (imp)/to stay
+zostać-zostanę (perf)/to stay
+zranić-zranię (perf)/to hurt
+zrazić-zrażę (perf)/to offend
+zredukować-zredukuję (perf)/to reduce
+zrezygnować-rezygnuję (imp)/to quit
+zrezygnować-zrezygnuję (perf)/to quit
+zrobić-zrobię (perf)/to do
+zrozumieć-zrozumiem (perf)/to understand
+zrujnować-zrujnuję (perf)/to ruin
+zwątpić-zwątpię (perf)/to doubt
+zwiedzać-zwiedzam (imp)/to explore
+żyć-żyję (imp)/to live
+życzyć-życzę (imp)/to wish
